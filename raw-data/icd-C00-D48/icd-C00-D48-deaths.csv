@@ -1,0 +1,865 @@
+Five-Year Age Groups,Gender,Deaths,Year
+< 1 year,Female,60,1999
+< 1 year,Female,70,2000
+< 1 year,Female,60,2001
+< 1 year,Female,71,2002
+< 1 year,Female,71,2003
+< 1 year,Female,73,2004
+< 1 year,Female,67,2005
+< 1 year,Female,69,2006
+< 1 year,Female,68,2007
+< 1 year,Female,57,2008
+< 1 year,Female,62,2009
+< 1 year,Female,54,2010
+< 1 year,Female,50,2011
+< 1 year,Female,52,2012
+< 1 year,Female,57,2013
+< 1 year,Female,62,2014
+< 1 year,Female,48,2015
+< 1 year,Female,58,2016
+< 1 year,Female,55,2017
+< 1 year,Female,49,2018
+< 1 year,Female,48,2019
+< 1 year,Female,47,2020
+< 1 year,Male,66,1999
+< 1 year,Male,82,2000
+< 1 year,Male,57,2001
+< 1 year,Male,72,2002
+< 1 year,Male,66,2003
+< 1 year,Male,72,2004
+< 1 year,Male,67,2005
+< 1 year,Male,72,2006
+< 1 year,Male,63,2007
+< 1 year,Male,74,2008
+< 1 year,Male,74,2009
+< 1 year,Male,56,2010
+< 1 year,Male,74,2011
+< 1 year,Male,65,2012
+< 1 year,Male,59,2013
+< 1 year,Male,41,2014
+< 1 year,Male,52,2015
+< 1 year,Male,62,2016
+< 1 year,Male,43,2017
+< 1 year,Male,43,2018
+< 1 year,Male,49,2019
+< 1 year,Male,46,2020
+1-4 years,Female,221,1999
+1-4 years,Female,207,2000
+1-4 years,Female,219,2001
+1-4 years,Female,216,2002
+1-4 years,Female,185,2003
+1-4 years,Female,212,2004
+1-4 years,Female,181,2005
+1-4 years,Female,206,2006
+1-4 years,Female,204,2007
+1-4 years,Female,201,2008
+1-4 years,Female,193,2009
+1-4 years,Female,176,2010
+1-4 years,Female,189,2011
+1-4 years,Female,209,2012
+1-4 years,Female,173,2013
+1-4 years,Female,158,2014
+1-4 years,Female,175,2015
+1-4 years,Female,197,2016
+1-4 years,Female,166,2017
+1-4 years,Female,161,2018
+1-4 years,Female,155,2019
+1-4 years,Female,168,2020
+1-4 years,Male,260,1999
+1-4 years,Male,266,2000
+1-4 years,Male,259,2001
+1-4 years,Male,246,2002
+1-4 years,Male,258,2003
+1-4 years,Male,240,2004
+1-4 years,Male,248,2005
+1-4 years,Male,231,2006
+1-4 years,Male,219,2007
+1-4 years,Male,239,2008
+1-4 years,Male,210,2009
+1-4 years,Male,229,2010
+1-4 years,Male,209,2011
+1-4 years,Male,238,2012
+1-4 years,Male,202,2013
+1-4 years,Male,201,2014
+1-4 years,Male,213,2015
+1-4 years,Male,229,2016
+1-4 years,Male,203,2017
+1-4 years,Male,204,2018
+1-4 years,Male,179,2019
+1-4 years,Male,174,2020
+5-9 years,Female,264,1999
+5-9 years,Female,250,2000
+5-9 years,Female,266,2001
+5-9 years,Female,262,2002
+5-9 years,Female,240,2003
+5-9 years,Female,244,2004
+5-9 years,Female,243,2005
+5-9 years,Female,215,2006
+5-9 years,Female,245,2007
+5-9 years,Female,259,2008
+5-9 years,Female,229,2009
+5-9 years,Female,220,2010
+5-9 years,Female,218,2011
+5-9 years,Female,210,2012
+5-9 years,Female,216,2013
+5-9 years,Female,215,2014
+5-9 years,Female,216,2015
+5-9 years,Female,206,2016
+5-9 years,Female,234,2017
+5-9 years,Female,200,2018
+5-9 years,Female,197,2019
+5-9 years,Female,190,2020
+5-9 years,Male,309,1999
+5-9 years,Male,301,2000
+5-9 years,Male,279,2001
+5-9 years,Male,319,2002
+5-9 years,Male,314,2003
+5-9 years,Male,323,2004
+5-9 years,Male,282,2005
+5-9 years,Male,282,2006
+5-9 years,Male,276,2007
+5-9 years,Male,257,2008
+5-9 years,Male,288,2009
+5-9 years,Male,256,2010
+5-9 years,Male,263,2011
+5-9 years,Male,277,2012
+5-9 years,Male,265,2013
+5-9 years,Male,257,2014
+5-9 years,Male,260,2015
+5-9 years,Male,274,2016
+5-9 years,Male,215,2017
+5-9 years,Male,212,2018
+5-9 years,Male,205,2019
+5-9 years,Male,220,2020
+10-14 years,Female,245,1999
+10-14 years,Female,245,2000
+10-14 years,Female,262,2001
+10-14 years,Female,250,2002
+10-14 years,Female,281,2003
+10-14 years,Female,241,2004
+10-14 years,Female,240,2005
+10-14 years,Female,220,2006
+10-14 years,Female,252,2007
+10-14 years,Female,220,2008
+10-14 years,Female,213,2009
+10-14 years,Female,261,2010
+10-14 years,Female,192,2011
+10-14 years,Female,228,2012
+10-14 years,Female,233,2013
+10-14 years,Female,190,2014
+10-14 years,Female,219,2015
+10-14 years,Female,206,2016
+10-14 years,Female,193,2017
+10-14 years,Female,217,2018
+10-14 years,Female,201,2019
+10-14 years,Female,203,2020
+10-14 years,Male,295,1999
+10-14 years,Male,317,2000
+10-14 years,Male,306,2001
+10-14 years,Male,330,2002
+10-14 years,Male,320,2003
+10-14 years,Male,295,2004
+10-14 years,Male,311,2005
+10-14 years,Male,266,2006
+10-14 years,Male,270,2007
+10-14 years,Male,242,2008
+10-14 years,Male,251,2009
+10-14 years,Male,261,2010
+10-14 years,Male,257,2011
+10-14 years,Male,284,2012
+10-14 years,Male,246,2013
+10-14 years,Male,264,2014
+10-14 years,Male,242,2015
+10-14 years,Male,253,2016
+10-14 years,Male,275,2017
+10-14 years,Male,263,2018
+10-14 years,Male,238,2019
+10-14 years,Male,234,2020
+15-19 years,Female,323,1999
+15-19 years,Female,312,2000
+15-19 years,Female,312,2001
+15-19 years,Female,319,2002
+15-19 years,Female,269,2003
+15-19 years,Female,321,2004
+15-19 years,Female,311,2005
+15-19 years,Female,288,2006
+15-19 years,Female,294,2007
+15-19 years,Female,289,2008
+15-19 years,Female,285,2009
+15-19 years,Female,257,2010
+15-19 years,Female,276,2011
+15-19 years,Female,263,2012
+15-19 years,Female,272,2013
+15-19 years,Female,271,2014
+15-19 years,Female,257,2015
+15-19 years,Female,239,2016
+15-19 years,Female,248,2017
+15-19 years,Female,249,2018
+15-19 years,Female,247,2019
+15-19 years,Female,240,2020
+15-19 years,Male,474,1999
+15-19 years,Male,473,2000
+15-19 years,Male,467,2001
+15-19 years,Male,445,2002
+15-19 years,Male,462,2003
+15-19 years,Male,460,2004
+15-19 years,Male,470,2005
+15-19 years,Male,442,2006
+15-19 years,Male,411,2007
+15-19 years,Male,448,2008
+15-19 years,Male,395,2009
+15-19 years,Male,390,2010
+15-19 years,Male,407,2011
+15-19 years,Male,395,2012
+15-19 years,Male,393,2013
+15-19 years,Male,379,2014
+15-19 years,Male,365,2015
+15-19 years,Male,394,2016
+15-19 years,Male,345,2017
+15-19 years,Male,412,2018
+15-19 years,Male,370,2019
+15-19 years,Male,338,2020
+20-24 years,Female,422,1999
+20-24 years,Female,412,2000
+20-24 years,Female,417,2001
+20-24 years,Female,432,2002
+20-24 years,Female,445,2003
+20-24 years,Female,408,2004
+20-24 years,Female,410,2005
+20-24 years,Female,398,2006
+20-24 years,Female,410,2007
+20-24 years,Female,389,2008
+20-24 years,Female,383,2009
+20-24 years,Female,385,2010
+20-24 years,Female,423,2011
+20-24 years,Female,420,2012
+20-24 years,Female,388,2013
+20-24 years,Female,383,2014
+20-24 years,Female,369,2015
+20-24 years,Female,314,2016
+20-24 years,Female,328,2017
+20-24 years,Female,297,2018
+20-24 years,Female,341,2019
+20-24 years,Female,325,2020
+20-24 years,Male,603,1999
+20-24 years,Male,611,2000
+20-24 years,Male,610,2001
+20-24 years,Male,621,2002
+20-24 years,Male,571,2003
+20-24 years,Male,630,2004
+20-24 years,Male,619,2005
+20-24 years,Male,616,2006
+20-24 years,Male,619,2007
+20-24 years,Male,632,2008
+20-24 years,Male,645,2009
+20-24 years,Male,665,2010
+20-24 years,Male,604,2011
+20-24 years,Male,578,2012
+20-24 years,Male,523,2013
+20-24 years,Male,612,2014
+20-24 years,Male,561,2015
+20-24 years,Male,554,2016
+20-24 years,Male,533,2017
+20-24 years,Male,494,2018
+20-24 years,Male,496,2019
+20-24 years,Male,468,2020
+25-29 years,Female,697,1999
+25-29 years,Female,705,2000
+25-29 years,Female,722,2001
+25-29 years,Female,609,2002
+25-29 years,Female,672,2003
+25-29 years,Female,635,2004
+25-29 years,Female,620,2005
+25-29 years,Female,687,2006
+25-29 years,Female,626,2007
+25-29 years,Female,678,2008
+25-29 years,Female,684,2009
+25-29 years,Female,675,2010
+25-29 years,Female,639,2011
+25-29 years,Female,660,2012
+25-29 years,Female,633,2013
+25-29 years,Female,670,2014
+25-29 years,Female,644,2015
+25-29 years,Female,661,2016
+25-29 years,Female,644,2017
+25-29 years,Female,629,2018
+25-29 years,Female,634,2019
+25-29 years,Female,654,2020
+25-29 years,Male,787,1999
+25-29 years,Male,722,2000
+25-29 years,Male,727,2001
+25-29 years,Male,711,2002
+25-29 years,Male,704,2003
+25-29 years,Male,714,2004
+25-29 years,Male,787,2005
+25-29 years,Male,773,2006
+25-29 years,Male,762,2007
+25-29 years,Male,813,2008
+25-29 years,Male,804,2009
+25-29 years,Male,815,2010
+25-29 years,Male,748,2011
+25-29 years,Male,785,2012
+25-29 years,Male,791,2013
+25-29 years,Male,754,2014
+25-29 years,Male,745,2015
+25-29 years,Male,768,2016
+25-29 years,Male,718,2017
+25-29 years,Male,716,2018
+25-29 years,Male,769,2019
+25-29 years,Male,679,2020
+30-34 years,Female,1424,1999
+30-34 years,Female,1440,2000
+30-34 years,Female,1486,2001
+30-34 years,Female,1474,2002
+30-34 years,Female,1345,2003
+30-34 years,Female,1327,2004
+30-34 years,Female,1252,2005
+30-34 years,Female,1275,2006
+30-34 years,Female,1194,2007
+30-34 years,Female,1143,2008
+30-34 years,Female,1226,2009
+30-34 years,Female,1219,2010
+30-34 years,Female,1219,2011
+30-34 years,Female,1272,2012
+30-34 years,Female,1248,2013
+30-34 years,Female,1223,2014
+30-34 years,Female,1299,2015
+30-34 years,Female,1344,2016
+30-34 years,Female,1346,2017
+30-34 years,Female,1370,2018
+30-34 years,Female,1246,2019
+30-34 years,Female,1283,2020
+30-34 years,Male,1268,1999
+30-34 years,Male,1214,2000
+30-34 years,Male,1210,2001
+30-34 years,Male,1241,2002
+30-34 years,Male,1198,2003
+30-34 years,Male,1130,2004
+30-34 years,Male,1104,2005
+30-34 years,Male,1064,2006
+30-34 years,Male,1019,2007
+30-34 years,Male,1039,2008
+30-34 years,Male,1093,2009
+30-34 years,Male,1073,2010
+30-34 years,Male,1057,2011
+30-34 years,Male,1089,2012
+30-34 years,Male,1140,2013
+30-34 years,Male,1117,2014
+30-34 years,Male,1163,2015
+30-34 years,Male,1128,2016
+30-34 years,Male,1051,2017
+30-34 years,Male,1092,2018
+30-34 years,Male,1040,2019
+30-34 years,Male,1088,2020
+35-39 years,Female,3358,1999
+35-39 years,Female,3232,2000
+35-39 years,Female,3212,2001
+35-39 years,Female,3044,2002
+35-39 years,Female,2912,2003
+35-39 years,Female,2673,2004
+35-39 years,Female,2606,2005
+35-39 years,Female,2626,2006
+35-39 years,Female,2549,2007
+35-39 years,Female,2482,2008
+35-39 years,Female,2453,2009
+35-39 years,Female,2282,2010
+35-39 years,Female,2272,2011
+35-39 years,Female,2183,2012
+35-39 years,Female,2196,2013
+35-39 years,Female,2306,2014
+35-39 years,Female,2231,2015
+35-39 years,Female,2430,2016
+35-39 years,Female,2361,2017
+35-39 years,Female,2412,2018
+35-39 years,Female,2457,2019
+35-39 years,Female,2344,2020
+35-39 years,Male,2546,1999
+35-39 years,Male,2488,2000
+35-39 years,Male,2410,2001
+35-39 years,Male,2243,2002
+35-39 years,Male,2149,2003
+35-39 years,Male,1977,2004
+35-39 years,Male,1912,2005
+35-39 years,Male,1897,2006
+35-39 years,Male,1828,2007
+35-39 years,Male,1851,2008
+35-39 years,Male,1895,2009
+35-39 years,Male,1801,2010
+35-39 years,Male,1743,2011
+35-39 years,Male,1635,2012
+35-39 years,Male,1676,2013
+35-39 years,Male,1684,2014
+35-39 years,Male,1740,2015
+35-39 years,Male,1743,2016
+35-39 years,Male,1831,2017
+35-39 years,Male,1820,2018
+35-39 years,Male,1756,2019
+35-39 years,Male,1750,2020
+40-44 years,Female,6048,1999
+40-44 years,Female,6124,2000
+40-44 years,Female,6233,2001
+40-44 years,Female,6155,2002
+40-44 years,Female,5916,2003
+40-44 years,Female,5788,2004
+40-44 years,Female,5804,2005
+40-44 years,Female,5461,2006
+40-44 years,Female,5197,2007
+40-44 years,Female,4879,2008
+40-44 years,Female,4805,2009
+40-44 years,Female,4517,2010
+40-44 years,Female,4523,2011
+40-44 years,Female,4420,2012
+40-44 years,Female,4460,2013
+40-44 years,Female,4258,2014
+40-44 years,Female,4148,2015
+40-44 years,Female,3972,2016
+40-44 years,Female,3905,2017
+40-44 years,Female,3777,2018
+40-44 years,Female,3822,2019
+40-44 years,Female,3822,2020
+40-44 years,Male,5122,1999
+40-44 years,Male,5044,2000
+40-44 years,Male,5080,2001
+40-44 years,Male,5009,2002
+40-44 years,Male,4871,2003
+40-44 years,Male,4603,2004
+40-44 years,Male,4612,2005
+40-44 years,Male,4249,2006
+40-44 years,Male,4054,2007
+40-44 years,Male,3793,2008
+40-44 years,Male,3659,2009
+40-44 years,Male,3488,2010
+40-44 years,Male,3425,2011
+40-44 years,Male,3354,2012
+40-44 years,Male,3281,2013
+40-44 years,Male,3269,2014
+40-44 years,Male,3051,2015
+40-44 years,Male,3001,2016
+40-44 years,Male,3007,2017
+40-44 years,Male,2844,2018
+40-44 years,Male,2887,2019
+40-44 years,Male,3065,2020
+45-49 years,Female,9395,1999
+45-49 years,Female,9693,2000
+45-49 years,Female,9953,2001
+45-49 years,Female,10035,2002
+45-49 years,Female,9972,2003
+45-49 years,Female,9945,2004
+45-49 years,Female,10332,2005
+45-49 years,Female,10250,2006
+45-49 years,Female,10009,2007
+45-49 years,Female,9740,2008
+45-49 years,Female,9786,2009
+45-49 years,Female,9380,2010
+45-49 years,Female,8961,2011
+45-49 years,Female,8611,2012
+45-49 years,Female,8196,2013
+45-49 years,Female,7902,2014
+45-49 years,Female,7512,2015
+45-49 years,Female,7677,2016
+45-49 years,Female,7234,2017
+45-49 years,Female,7081,2018
+45-49 years,Female,6885,2019
+45-49 years,Female,6614,2020
+45-49 years,Male,9293,1999
+45-49 years,Male,9403,2000
+45-49 years,Male,9550,2001
+45-49 years,Male,9587,2002
+45-49 years,Male,9875,2003
+45-49 years,Male,9553,2004
+45-49 years,Male,9428,2005
+45-49 years,Male,9263,2006
+45-49 years,Male,9055,2007
+45-49 years,Male,9140,2008
+45-49 years,Male,8711,2009
+45-49 years,Male,8491,2010
+45-49 years,Male,7932,2011
+45-49 years,Male,7642,2012
+45-49 years,Male,7311,2013
+45-49 years,Male,6862,2014
+45-49 years,Male,6501,2015
+45-49 years,Male,6240,2016
+45-49 years,Male,6104,2017
+45-49 years,Male,6044,2018
+45-49 years,Male,5875,2019
+45-49 years,Male,5752,2020
+50-54 years,Female,13952,1999
+50-54 years,Female,14431,2000
+50-54 years,Female,14866,2001
+50-54 years,Female,14759,2002
+50-54 years,Female,14645,2003
+50-54 years,Female,14459,2004
+50-54 years,Female,14995,2005
+50-54 years,Female,15105,2006
+50-54 years,Female,15105,2007
+50-54 years,Female,15266,2008
+50-54 years,Female,15738,2009
+50-54 years,Female,15992,2010
+50-54 years,Female,15889,2011
+50-54 years,Female,15722,2012
+50-54 years,Female,15307,2013
+50-54 years,Female,15169,2014
+50-54 years,Female,14670,2015
+50-54 years,Female,13936,2016
+50-54 years,Female,13390,2017
+50-54 years,Female,12567,2018
+50-54 years,Female,11881,2019
+50-54 years,Female,11741,2020
+50-54 years,Male,14703,1999
+50-54 years,Male,15197,2000
+50-54 years,Male,15912,2001
+50-54 years,Male,15970,2002
+50-54 years,Male,16033,2003
+50-54 years,Male,16261,2004
+50-54 years,Male,16379,2005
+50-54 years,Male,16510,2006
+50-54 years,Male,16697,2007
+50-54 years,Male,16971,2008
+50-54 years,Male,17128,2009
+50-54 years,Male,17099,2010
+50-54 years,Male,16783,2011
+50-54 years,Male,16695,2012
+50-54 years,Male,16021,2013
+50-54 years,Male,15548,2014
+50-54 years,Male,15046,2015
+50-54 years,Male,14016,2016
+50-54 years,Male,13105,2017
+50-54 years,Male,12146,2018
+50-54 years,Male,11479,2019
+50-54 years,Male,10973,2020
+55-59 years,Female,17952,1999
+55-59 years,Female,18261,2000
+55-59 years,Female,18711,2001
+55-59 years,Female,19311,2002
+55-59 years,Female,19871,2003
+55-59 years,Female,20186,2004
+55-59 years,Female,20638,2005
+55-59 years,Female,21328,2006
+55-59 years,Female,20990,2007
+55-59 years,Female,20612,2008
+55-59 years,Female,20961,2009
+55-59 years,Female,21283,2010
+55-59 years,Female,21730,2011
+55-59 years,Female,22396,2012
+55-59 years,Female,22453,2013
+55-59 years,Female,22970,2014
+55-59 years,Female,23332,2015
+55-59 years,Female,23095,2016
+55-59 years,Female,22741,2017
+55-59 years,Female,22212,2018
+55-59 years,Female,21219,2019
+55-59 years,Female,20576,2020
+55-59 years,Male,21146,1999
+55-59 years,Male,21182,2000
+55-59 years,Male,21669,2001
+55-59 years,Male,22737,2002
+55-59 years,Male,22950,2003
+55-59 years,Male,23519,2004
+55-59 years,Male,24299,2005
+55-59 years,Male,25300,2006
+55-59 years,Male,25120,2007
+55-59 years,Male,25392,2008
+55-59 years,Male,25835,2009
+55-59 years,Male,26175,2010
+55-59 years,Male,26792,2011
+55-59 years,Male,27233,2012
+55-59 years,Male,27288,2013
+55-59 years,Male,27615,2014
+55-59 years,Male,27477,2015
+55-59 years,Male,26708,2016
+55-59 years,Male,25512,2017
+55-59 years,Male,24970,2018
+55-59 years,Male,23729,2019
+55-59 years,Male,22805,2020
+60-64 years ,Female,22759,1999
+60-64 years ,Female,22884,2000
+60-64 years ,Female,22848,2001
+60-64 years ,Female,23478,2002
+60-64 years ,Female,24447,2003
+60-64 years ,Female,24592,2004
+60-64 years ,Female,25127,2005
+60-64 years ,Female,25361,2006
+60-64 years ,Female,26200,2007
+60-64 years ,Female,26499,2008
+60-64 years ,Female,27437,2009
+60-64 years ,Female,28116,2010
+60-64 years ,Female,28993,2011
+60-64 years ,Female,28718,2012
+60-64 years ,Female,28702,2013
+60-64 years ,Female,29152,2014
+60-64 years ,Female,29302,2015
+60-64 years ,Female,30200,2016
+60-64 years ,Female,30322,2017
+60-64 years ,Female,30466,2018
+60-64 years ,Female,30764,2019
+60-64 years ,Female,30915,2020
+60-64 years ,Male,28343,1999
+60-64 years ,Male,27902,2000
+60-64 years ,Male,28248,2001
+60-64 years ,Male,29058,2002
+60-64 years ,Male,29662,2003
+60-64 years ,Male,29969,2004
+60-64 years ,Male,30494,2005
+60-64 years ,Male,30780,2006
+60-64 years ,Male,32277,2007
+60-64 years ,Male,32967,2008
+60-64 years ,Male,34072,2009
+60-64 years ,Male,35365,2010
+60-64 years ,Male,36542,2011
+60-64 years ,Male,36286,2012
+60-64 years ,Male,36383,2013
+60-64 years ,Male,37155,2014
+60-64 years ,Male,37630,2015
+60-64 years ,Male,37929,2016
+60-64 years ,Male,37763,2017
+60-64 years ,Male,37767,2018
+60-64 years ,Male,37528,2019
+60-64 years ,Male,37486,2020
+65-69 years,Female,29938,1999
+65-69 years,Female,29533,2000
+65-69 years,Female,28709,2001
+65-69 years,Female,28609,2002
+65-69 years,Female,28524,2003
+65-69 years,Female,28815,2004
+65-69 years,Female,28321,2005
+65-69 years,Female,28818,2006
+65-69 years,Female,29881,2007
+65-69 years,Female,30956,2008
+65-69 years,Female,31065,2009
+65-69 years,Female,31912,2010
+65-69 years,Female,32112,2011
+65-69 years,Female,33771,2012
+65-69 years,Female,34358,2013
+65-69 years,Female,35219,2014
+65-69 years,Female,36297,2015
+65-69 years,Female,37260,2016
+65-69 years,Female,36788,2017
+65-69 years,Female,36382,2018
+65-69 years,Female,36267,2019
+65-69 years,Female,36934,2020
+65-69 years,Male,37905,1999
+65-69 years,Male,37317,2000
+65-69 years,Male,36463,2001
+65-69 years,Male,35917,2002
+65-69 years,Male,35572,2003
+65-69 years,Male,35609,2004
+65-69 years,Male,35681,2005
+65-69 years,Male,35939,2006
+65-69 years,Male,36749,2007
+65-69 years,Male,38130,2008
+65-69 years,Male,38723,2009
+65-69 years,Male,39659,2010
+65-69 years,Male,39591,2011
+65-69 years,Male,41970,2012
+65-69 years,Male,42911,2013
+65-69 years,Male,43970,2014
+65-69 years,Male,45718,2015
+65-69 years,Male,46865,2016
+65-69 years,Male,46151,2017
+65-69 years,Male,45530,2018
+65-69 years,Male,45915,2019
+65-69 years,Male,46375,2020
+70-74 years,Female,39018,1999
+70-74 years,Female,38538,2000
+70-74 years,Female,37745,2001
+70-74 years,Female,37096,2002
+70-74 years,Female,35951,2003
+70-74 years,Female,35136,2004
+70-74 years,Female,34448,2005
+70-74 years,Female,34277,2006
+70-74 years,Female,33709,2007
+70-74 years,Female,33682,2008
+70-74 years,Female,33927,2009
+70-74 years,Female,34154,2010
+70-74 years,Female,34341,2011
+70-74 years,Female,35297,2012
+70-74 years,Female,36641,2013
+70-74 years,Female,37286,2014
+70-74 years,Female,38256,2015
+70-74 years,Female,38011,2016
+70-74 years,Female,39839,2017
+70-74 years,Female,40649,2018
+70-74 years,Female,41440,2019
+70-74 years,Female,42953,2020
+70-74 years,Male,48161,1999
+70-74 years,Male,47289,2000
+70-74 years,Male,46675,2001
+70-74 years,Male,45483,2002
+70-74 years,Male,43555,2003
+70-74 years,Male,42200,2004
+70-74 years,Male,42346,2005
+70-74 years,Male,40889,2006
+70-74 years,Male,40529,2007
+70-74 years,Male,40908,2008
+70-74 years,Male,40608,2009
+70-74 years,Male,41490,2010
+70-74 years,Male,42134,2011
+70-74 years,Male,43259,2012
+70-74 years,Male,44415,2013
+70-74 years,Male,45715,2014
+70-74 years,Male,46613,2015
+70-74 years,Male,46569,2016
+70-74 years,Male,48788,2017
+70-74 years,Male,49669,2018
+70-74 years,Male,50539,2019
+70-74 years,Male,52480,2020
+75-79 years,Female,42722,1999
+75-79 years,Female,43393,2000
+75-79 years,Female,43009,2001
+75-79 years,Female,42823,2002
+75-79 years,Female,42579,2003
+75-79 years,Female,41226,2004
+75-79 years,Female,40807,2005
+75-79 years,Female,40447,2006
+75-79 years,Female,39405,2007
+75-79 years,Female,38325,2008
+75-79 years,Female,37328,2009
+75-79 years,Female,36968,2010
+75-79 years,Female,36538,2011
+75-79 years,Female,36608,2012
+75-79 years,Female,36637,2013
+75-79 years,Female,37495,2014
+75-79 years,Female,37543,2015
+75-79 years,Female,38109,2016
+75-79 years,Female,38614,2017
+75-79 years,Female,39953,2018
+75-79 years,Female,40245,2019
+75-79 years,Female,41210,2020
+75-79 years,Male,49303,1999
+75-79 years,Male,49404,2000
+75-79 years,Male,49150,2001
+75-79 years,Male,48879,2002
+75-79 years,Male,48630,2003
+75-79 years,Male,47660,2004
+75-79 years,Male,47122,2005
+75-79 years,Male,46180,2006
+75-79 years,Male,45649,2007
+75-79 years,Male,44662,2008
+75-79 years,Male,43739,2009
+75-79 years,Male,43314,2010
+75-79 years,Male,42958,2011
+75-79 years,Male,42923,2012
+75-79 years,Male,42925,2013
+75-79 years,Male,43807,2014
+75-79 years,Male,44039,2015
+75-79 years,Male,44484,2016
+75-79 years,Male,45556,2017
+75-79 years,Male,46607,2018
+75-79 years,Male,47828,2019
+75-79 years,Male,48857,2020
+80-84 years,Female,37242,1999
+80-84 years,Female,38125,2000
+80-84 years,Female,38561,2001
+80-84 years,Female,39552,2002
+80-84 years,Female,39966,2003
+80-84 years,Female,40391,2004
+80-84 years,Female,40693,2005
+80-84 years,Female,40239,2006
+80-84 years,Female,40423,2007
+80-84 years,Female,40035,2008
+80-84 years,Female,39149,2009
+80-84 years,Female,39297,2010
+80-84 years,Female,38524,2011
+80-84 years,Female,37896,2012
+80-84 years,Female,37116,2013
+80-84 years,Female,36867,2014
+80-84 years,Female,36186,2015
+80-84 years,Female,36072,2016
+80-84 years,Female,36070,2017
+80-84 years,Female,36143,2018
+80-84 years,Female,36226,2019
+80-84 years,Female,36765,2020
+80-84 years,Male,37975,1999
+80-84 years,Male,38822,2000
+80-84 years,Male,39379,2001
+80-84 years,Male,40405,2002
+80-84 years,Male,41131,2003
+80-84 years,Male,41452,2004
+80-84 years,Male,42393,2005
+80-84 years,Male,42773,2006
+80-84 years,Male,42848,2007
+80-84 years,Male,42662,2008
+80-84 years,Male,42305,2009
+80-84 years,Male,42156,2010
+80-84 years,Male,41966,2011
+80-84 years,Male,41384,2012
+80-84 years,Male,41090,2013
+80-84 years,Male,40675,2014
+80-84 years,Male,40337,2015
+80-84 years,Male,39995,2016
+80-84 years,Male,40412,2017
+80-84 years,Male,40840,2018
+80-84 years,Male,41133,2019
+80-84 years,Male,41125,2020
+< 1 year,Female,37,2021
+1-4 years,Female,143,2021
+5-9 years,Female,167,2021
+10-14 years,Female,205,2021
+15-19 years,Female,224,2021
+20-24 years,Female,297,2021
+25-29 years,Female,614,2021
+30-34 years,Female,1291,2021
+35-39 years,Female,2444,2021
+40-44 years,Female,4073,2021
+45-49 years,Female,6602,2021
+50-54 years,Female,11344,2021
+55-59 years,Female,19756,2021
+60-64 years ,Female,30996,2021
+65-69 years,Female,37558,2021
+70-74 years,Female,44081,2021
+75-79 years,Female,41808,2021
+80-84 years,Female,37210,2021
+< 1 year,Female,42,2022
+1-4 years,Female,158,2022
+5-9 years,Female,190,2022
+10-14 years,Female,213,2022
+15-19 years,Female,297,2022
+20-24 years,Female,304,2022
+25-29 years,Female,585,2022
+30-34 years,Female,1271,2022
+35-39 years,Female,2429,2022
+40-44 years,Female,4046,2022
+45-49 years,Female,6313,2022
+50-54 years,Female,11264,2022
+55-59 years,Female,19172,2022
+60-64 years ,Female,30646,2022
+65-69 years,Female,38771,2022
+70-74 years,Female,43129,2022
+75-79 years,Female,44533,2022
+80-84 years,Female,38109,2022
+< 1 year,Male,41,2021
+1-4 years,Male,176,2021
+5-9 years,Male,204,2021
+10-14 years,Male,274,2021
+15-19 years,Male,411,2021
+20-24 years,Male,474,2021
+25-29 years,Male,705,2021
+30-34 years,Male,1131,2021
+35-39 years,Male,1759,2021
+40-44 years,Male,3158,2021
+45-49 years,Male,5389,2021
+50-54 years,Male,10779,2021
+55-59 years,Male,21789,2021
+60-64 years ,Male,36922,2021
+65-69 years,Male,47099,2021
+70-74 years,Male,53846,2021
+75-79 years,Male,49374,2021
+80-84 years,Male,41537,2021
+< 1 year,Male,30,2022
+1-4 years,Male,145,2022
+5-9 years,Male,219,2022
+10-14 years,Male,264,2022
+15-19 years,Male,375,2022
+20-24 years,Male,519,2022
+25-29 years,Male,732,2022
+30-34 years,Male,1159,2022
+35-39 years,Male,1869,2022
+40-44 years,Male,3089,2022
+45-49 years,Male,5391,2022
+50-54 years,Male,10898,2022
+55-59 years,Male,20496,2022
+60-64 years ,Male,36256,2022
+65-69 years,Male,47266,2022
+70-74 years,Male,53070,2022
+75-79 years,Male,51595,2022
+80-84 years,Male,42552,2022

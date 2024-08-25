@@ -1,0 +1,685 @@
+age_cat,metric,value,shortname,keep
+1-4,excess_rate,3.0846830142005786,Infections,TRUE
+1-4,excess_ypll_number,5727.920651318039,Infections,TRUE
+10-14,excess_rate,0.511033723050744,Infections,TRUE
+10-14,excess_ypll_number,1255.1826640052311,Infections,TRUE
+15-19,excess_rate,0.1758254846825551,Infections,TRUE
+15-19,excess_ypll_number,441.78889398510086,Infections,TRUE
+20-24,excess_rate,12.72383295336924,Infections,TRUE
+20-24,excess_ypll_number,32195.598154800748,Infections,TRUE
+25-29,excess_rate,45.293649027493174,Infections,TRUE
+25-29,excess_ypll_number,111938.08466022236,Infections,TRUE
+30-34,excess_rate,97.40258448282805,Infections,TRUE
+30-34,excess_ypll_number,236716.82217260316,Infections,TRUE
+35-39,excess_rate,180.7699113943613,Infections,TRUE
+35-39,excess_ypll_number,437045.9107724845,Infections,TRUE
+40-44,excess_rate,247.1583636225422,Infections,TRUE
+40-44,excess_ypll_number,601536.7787287141,Infections,TRUE
+45-49,excess_rate,326.7071461751755,Infections,TRUE
+45-49,excess_ypll_number,793853.8611582245,Infections,TRUE
+5-9,excess_rate,1.2707440965009589,Infections,TRUE
+5-9,excess_ypll_number,3006.000285151925,Infections,TRUE
+50-54,excess_rate,365.1757623804866,Infections,TRUE
+50-54,excess_ypll_number,862424.175316148,Infections,TRUE
+55-59,excess_rate,328.0142386441063,Infections,TRUE
+55-59,excess_ypll_number,708825.9148319013,Infections,TRUE
+60-64,excess_rate,231.78767831278753,Infections,TRUE
+60-64,excess_ypll_number,425578.95417443424,Infections,TRUE
+65-69,excess_rate,135.89512317901733,Infections,TRUE
+65-69,excess_ypll_number,199787.432961936,Infections,TRUE
+70-74,excess_rate,68.55690538779356,Infections,TRUE
+70-74,excess_ypll_number,77469.26880975404,Infections,TRUE
+75-79,excess_rate,50.73207775108631,Infections,TRUE
+75-79,excess_ypll_number,41346.706274911754,Infections,TRUE
+80-84,excess_rate,54.480365085931,Infections,TRUE
+80-84,excess_ypll_number,29237.731279416403,Infections,TRUE
+< 1 year,excess_rate,124.17325703161748,Infections,TRUE
+< 1 year,excess_ypll_number,57364.79513447076,Infections,TRUE
+1-4,excess_rate,11.433476299257762,Neoplasms,TRUE
+1-4,excess_ypll_number,21230.721182496018,Neoplasms,TRUE
+10-14,excess_rate,11.62983718770343,Neoplasms,TRUE
+10-14,excess_ypll_number,28564.78812408864,Neoplasms,TRUE
+15-19,excess_rate,54.67369184611644,Neoplasms,TRUE
+15-19,excess_ypll_number,137376.15963002958,Neoplasms,TRUE
+20-24,excess_rate,76.33386956970455,Neoplasms,TRUE
+20-24,excess_ypll_number,193150.49162260577,Neoplasms,TRUE
+25-29,excess_rate,11.154365238320963,Neoplasms,TRUE
+25-29,excess_ypll_number,27566.740750349265,Neoplasms,TRUE
+30-34,excess_rate,-141.89025960462192,Neoplasms,TRUE
+30-34,excess_ypll_number,-344834.9089420032,Neoplasms,TRUE
+35-39,excess_rate,-357.3566020538651,Neoplasms,TRUE
+35-39,excess_ypll_number,-863978.0835787007,Neoplasms,TRUE
+40-44,excess_rate,-536.7542985286839,Neoplasms,TRUE
+40-44,excess_ypll_number,-1306358.591201997,Neoplasms,TRUE
+45-49,excess_rate,-515.664243244617,Neoplasms,TRUE
+45-49,excess_ypll_number,-1252993.8673012045,Neoplasms,TRUE
+5-9,excess_rate,9.529037421915376,Neoplasms,TRUE
+5-9,excess_ypll_number,22541.351391184187,Neoplasms,TRUE
+50-54,excess_rate,-150.03520380596638,Neoplasms,TRUE
+50-54,excess_ypll_number,-354333.4477273757,Neoplasms,TRUE
+55-59,excess_rate,580.7630790588282,Neoplasms,TRUE
+55-59,excess_ypll_number,1255006.2537410597,Neoplasms,TRUE
+60-64,excess_rate,1387.6801190095666,Neoplasms,TRUE
+60-64,excess_ypll_number,2547881.1387885786,Neoplasms,TRUE
+65-69,excess_rate,2114.0721901173747,Neoplasms,TRUE
+65-69,excess_ypll_number,3108022.172387882,Neoplasms,TRUE
+70-74,excess_rate,2693.6071850051867,Neoplasms,TRUE
+70-74,excess_ypll_number,3043774.772252269,Neoplasms,TRUE
+75-79,excess_rate,3269.267068504086,Neoplasms,TRUE
+75-79,excess_ypll_number,2664456.714721996,Neoplasms,TRUE
+80-84,excess_rate,3854.158757476253,Neoplasms,TRUE
+80-84,excess_ypll_number,2068393.9595771967,Neoplasms,TRUE
+< 1 year,excess_rate,-19.622863736094928,Neoplasms,TRUE
+< 1 year,excess_ypll_number,-9065.249515731884,Neoplasms,TRUE
+1-4,excess_rate,3.276863867378953,Blood-related,FALSE
+1-4,excess_ypll_number,6084.779580628029,Blood-related,FALSE
+10-14,excess_rate,0.952675312848294,Blood-related,FALSE
+10-14,excess_ypll_number,2339.9268642672364,Blood-related,FALSE
+15-19,excess_rate,1.111384115706418,Blood-related,FALSE
+15-19,excess_ypll_number,2792.5255554223027,Blood-related,FALSE
+20-24,excess_rate,3.303213614420393,Blood-related,FALSE
+20-24,excess_ypll_number,8358.246963717405,Blood-related,FALSE
+25-29,excess_rate,2.7025877423444946,Blood-related,FALSE
+25-29,excess_ypll_number,6679.137185891263,Blood-related,FALSE
+30-34,excess_rate,0.6512306465406041,Blood-related,FALSE
+30-34,excess_ypll_number,1582.681301210024,Blood-related,FALSE
+35-39,excess_rate,-0.71091026914889,Blood-related,FALSE
+35-39,excess_ypll_number,-1718.7618429478323,Blood-related,FALSE
+40-44,excess_rate,-6.649412794760266,Blood-related,FALSE
+40-44,excess_ypll_number,-16183.414934346072,Blood-related,FALSE
+45-49,excess_rate,-5.0421614756408815,Blood-related,FALSE
+45-49,excess_ypll_number,-12251.765542571133,Blood-related,FALSE
+5-9,excess_rate,1.449148973296964,Blood-related,FALSE
+5-9,excess_ypll_number,3428.0247604164306,Blood-related,FALSE
+50-54,excess_rate,-6.651791085168384,Blood-related,FALSE
+50-54,excess_ypll_number,-15709.326937817028,Blood-related,FALSE
+55-59,excess_rate,-7.193237329134291,Blood-related,FALSE
+55-59,excess_ypll_number,-15544.303965288276,Blood-related,FALSE
+60-64,excess_rate,-8.54515705721714,Blood-related,FALSE
+60-64,excess_ypll_number,-15689.52685551847,Blood-related,FALSE
+65-69,excess_rate,-11.601242278037615,Blood-related,FALSE
+65-69,excess_ypll_number,-17055.670282187817,Blood-related,FALSE
+70-74,excess_rate,-11.89792941352647,Blood-related,FALSE
+70-74,excess_ypll_number,-13444.654288320204,Blood-related,FALSE
+75-79,excess_rate,-11.698556483697786,Blood-related,FALSE
+75-79,excess_ypll_number,-9534.338040423736,Blood-related,FALSE
+80-84,excess_rate,-5.176585201565132,Blood-related,FALSE
+80-84,excess_ypll_number,-2778.0945819588483,Blood-related,FALSE
+< 1 year,excess_rate,30.319181182606343,Blood-related,FALSE
+< 1 year,excess_ypll_number,14006.668253392583,Blood-related,FALSE
+1-4,excess_rate,1.3152389336210888,Endocrine and Metabolic,TRUE
+1-4,excess_ypll_number,2442.255562281216,Endocrine and Metabolic,TRUE
+10-14,excess_rate,2.865296008166382,Endocrine and Metabolic,TRUE
+10-14,excess_ypll_number,7037.637076519734,Endocrine and Metabolic,TRUE
+15-19,excess_rate,0.7850405815314119,Endocrine and Metabolic,TRUE
+15-19,excess_ypll_number,1972.536636963376,Endocrine and Metabolic,TRUE
+20-24,excess_rate,10.69539722655236,Endocrine and Metabolic,TRUE
+20-24,excess_ypll_number,27062.970134394018,Endocrine and Metabolic,TRUE
+25-29,excess_rate,25.70310593085199,Endocrine and Metabolic,TRUE
+25-29,excess_ypll_number,63522.29306965187,Endocrine and Metabolic,TRUE
+30-34,excess_rate,50.30463042328736,Endocrine and Metabolic,TRUE
+30-34,excess_ypll_number,122254.99269444124,Endocrine and Metabolic,TRUE
+35-39,excess_rate,77.53442222011154,Endocrine and Metabolic,TRUE
+35-39,excess_ypll_number,187454.3275151708,Endocrine and Metabolic,TRUE
+40-44,excess_rate,131.06120175172055,Endocrine and Metabolic,TRUE
+40-44,excess_ypll_number,318978.212845125,Endocrine and Metabolic,TRUE
+45-49,excess_rate,197.57074790444017,Endocrine and Metabolic,TRUE
+45-49,excess_ypll_number,480070.00432051014,Endocrine and Metabolic,TRUE
+5-9,excess_rate,3.668540781183875,Endocrine and Metabolic,TRUE
+5-9,excess_ypll_number,8678.092359189544,Endocrine and Metabolic,TRUE
+50-54,excess_rate,275.01716614883946,Endocrine and Metabolic,TRUE
+50-54,excess_ypll_number,649499.4387567571,Endocrine and Metabolic,TRUE
+55-59,excess_rate,357.0896850488722,Endocrine and Metabolic,TRUE
+55-59,excess_ypll_number,771656.8150458558,Endocrine and Metabolic,TRUE
+60-64,excess_rate,406.5938749562324,Endocrine and Metabolic,TRUE
+60-64,excess_ypll_number,746535.783684312,Endocrine and Metabolic,TRUE
+65-69,excess_rate,402.0358549427126,Endocrine and Metabolic,TRUE
+65-69,excess_ypll_number,591056.6143852893,Endocrine and Metabolic,TRUE
+70-74,excess_rate,342.85491543024864,Endocrine and Metabolic,TRUE
+70-74,excess_ypll_number,387425.88300872326,Endocrine and Metabolic,TRUE
+75-79,excess_rate,264.8278446968591,Endocrine and Metabolic,TRUE
+75-79,excess_ypll_number,215835.0218144676,Endocrine and Metabolic,TRUE
+80-84,excess_rate,194.61277694466116,Endocrine and Metabolic,TRUE
+80-84,excess_ypll_number,104441.95935313952,Endocrine and Metabolic,TRUE
+< 1 year,excess_rate,70.99346062616917,Endocrine and Metabolic,TRUE
+< 1 year,excess_ypll_number,32797.12091042557,Endocrine and Metabolic,TRUE
+1-4,excess_rate,-1.0534365922196054,Mental Health,FALSE
+1-4,excess_ypll_number,-1869.7416579081191,Mental Health,FALSE
+10-14,excess_rate,-1.4740013994866397,Mental Health,FALSE
+10-14,excess_ypll_number,-3620.389261808787,Mental Health,FALSE
+15-19,excess_rate,5.891859668942022,Mental Health,FALSE
+15-19,excess_ypll_number,14804.214368337109,Mental Health,FALSE
+20-24,excess_rate,24.592851722845666,Mental Health,FALSE
+20-24,excess_ypll_number,62228.22748861038,Mental Health,FALSE
+25-29,excess_rate,46.18654599217627,Mental Health,FALSE
+25-29,excess_ypll_number,114144.77761103504,Mental Health,FALSE
+30-34,excess_rate,68.84395911743552,Mental Health,FALSE
+30-34,excess_ypll_number,167310.9940007085,Mental Health,FALSE
+35-39,excess_rate,108.69738037514168,Mental Health,FALSE
+35-39,excess_ypll_number,262796.7521707753,Mental Health,FALSE
+40-44,excess_rate,153.92045339851003,Mental Health,FALSE
+40-44,excess_ypll_number,374613.3141551446,Mental Health,FALSE
+45-49,excess_rate,199.7417641505724,Mental Health,FALSE
+45-49,excess_ypll_number,485345.2780627783,Mental Health,FALSE
+5-9,excess_rate,-0.06940811822828064,Mental Health,FALSE
+5-9,excess_ypll_number,-164.1879145931666,Mental Health,FALSE
+50-54,excess_rate,241.63762532020232,Mental Health,FALSE
+50-54,excess_ypll_number,570668.0212938018,Mental Health,FALSE
+55-59,excess_rate,246.1751470309518,Mental Health,FALSE
+55-59,excess_ypll_number,531974.8451298747,Mental Health,FALSE
+60-64,excess_rate,226.08029725102915,Mental Health,FALSE
+60-64,excess_ypll_number,415099.78944480454,Mental Health,FALSE
+65-69,excess_rate,156.6187617699528,Mental Health,FALSE
+65-69,excess_ypll_number,230254.4759202016,Mental Health,FALSE
+70-74,excess_rate,54.63574172010476,Mental Health,FALSE
+70-74,excess_ypll_number,61738.36082584753,Mental Health,FALSE
+75-79,excess_rate,-169.12616993370102,Mental Health,FALSE
+75-79,excess_ypll_number,-137838.03821241707,Mental Health,FALSE
+80-84,excess_rate,-560.2087292205542,Mental Health,FALSE
+80-84,excess_ypll_number,-300644.68656733877,Mental Health,FALSE
+< 1 year,excess_rate,3.953918123954956,Mental Health,FALSE
+< 1 year,excess_ypll_number,867.3820502835647,Mental Health,FALSE
+1-4,excess_rate,10.790801551376134,Neurological,TRUE
+1-4,excess_ypll_number,20037.344117972647,Neurological,TRUE
+10-14,excess_rate,17.45600363701969,Neurological,TRUE
+10-14,excess_ypll_number,42874.80876447706,Neurological,TRUE
+15-19,excess_rate,62.0523148517732,Neurological,TRUE
+15-19,excess_ypll_number,155916.09826684056,Neurological,TRUE
+20-24,excess_rate,67.2987615688341,Neurological,TRUE
+20-24,excess_ypll_number,170288.61442354816,Neurological,TRUE
+25-29,excess_rate,48.69704551332386,Neurological,TRUE
+25-29,excess_ypll_number,120349.19067934592,Neurological,TRUE
+30-34,excess_rate,33.19081777645306,Neurological,TRUE
+30-34,excess_ypll_number,80663.41310211398,Neurological,TRUE
+35-39,excess_rate,28.942004970995583,Neurological,TRUE
+35-39,excess_ypll_number,69972.84462089467,Neurological,TRUE
+40-44,excess_rate,28.443499132859927,Neurological,TRUE
+40-44,excess_ypll_number,69226.10505013484,Neurological,TRUE
+45-49,excess_rate,28.833918305997372,Neurological,TRUE
+45-49,excess_ypll_number,70062.49372722198,Neurological,TRUE
+5-9,excess_rate,7.545162442339091,Neurological,TRUE
+5-9,excess_ypll_number,17848.40906649987,Neurological,TRUE
+50-54,excess_rate,27.607122954768897,Neurological,TRUE
+50-54,excess_ypll_number,65198.87873147169,Neurological,TRUE
+55-59,excess_rate,18.97710207767597,Neurological,TRUE
+55-59,excess_ypll_number,41008.773877227344,Neurological,TRUE
+60-64,excess_rate,29.30029463191613,Neurological,TRUE
+60-64,excess_ypll_number,53797.46169952348,Neurological,TRUE
+65-69,excess_rate,63.38127911550271,Neurological,TRUE
+65-69,excess_ypll_number,93180.55538791718,Neurological,TRUE
+70-74,excess_rate,114.27620229173908,Neurological,TRUE
+70-74,excess_ypll_number,129132.05145156404,Neurological,TRUE
+75-79,excess_rate,91.6377488132016,Neurological,TRUE
+75-79,excess_ypll_number,74684.87891356784,Neurological,TRUE
+80-84,excess_rate,-201.83964045271296,Neurological,TRUE
+80-84,excess_ypll_number,-108320.36752658265,Neurological,TRUE
+< 1 year,excess_rate,99.05293921644454,Neurological,TRUE
+< 1 year,excess_ypll_number,45759.86570257809,Neurological,TRUE
+1-4,excess_rate,-2.3653531008872104,Eye and Adnexa,FALSE
+1-4,excess_ypll_number,-569.1662831276712,Eye and Adnexa,FALSE
+10-14,excess_rate,0.0873715058951694,Eye and Adnexa,FALSE
+10-14,excess_ypll_number,47.20825752785671,Eye and Adnexa,FALSE
+15-19,excess_rate,-0.507576439683668,Eye and Adnexa,FALSE
+15-19,excess_ypll_number,-387.81636738014896,Eye and Adnexa,FALSE
+20-24,excess_rate,0.23881929236301017,Eye and Adnexa,FALSE
+20-24,excess_ypll_number,184.4779039866541,Eye and Adnexa,FALSE
+25-29,excess_rate,-0.1035477719847102,Eye and Adnexa,FALSE
+25-29,excess_ypll_number,-102.05934317491496,Eye and Adnexa,FALSE
+30-34,excess_rate,1.318486339208123,Eye and Adnexa,FALSE
+30-34,excess_ypll_number,702.5395053472074,Eye and Adnexa,FALSE
+35-39,excess_rate,0.0807882660632524,Eye and Adnexa,FALSE
+35-39,excess_ypll_number,32.61810650168466,Eye and Adnexa,FALSE
+40-44,excess_rate,0.11222312492046016,Eye and Adnexa,FALSE
+40-44,excess_ypll_number,115.7151326205164,Eye and Adnexa,FALSE
+45-49,excess_rate,-0.9427538743037932,Eye and Adnexa,FALSE
+45-49,excess_ypll_number,-1701.4435017244843,Eye and Adnexa,FALSE
+5-9,excess_rate,1.743694615484082,Eye and Adnexa,FALSE
+5-9,excess_ypll_number,884.2489520818563,Eye and Adnexa,FALSE
+50-54,excess_rate,-0.7953809463276025,Eye and Adnexa,FALSE
+50-54,excess_ypll_number,-988.71956972665,Eye and Adnexa,FALSE
+55-59,excess_rate,0.16374669135401554,Eye and Adnexa,FALSE
+55-59,excess_ypll_number,232.16423617981968,Eye and Adnexa,FALSE
+60-64,excess_rate,-0.4269184574075868,Eye and Adnexa,FALSE
+60-64,excess_ypll_number,-600.9851003629441,Eye and Adnexa,FALSE
+65-69,excess_rate,-0.01301202055022199,Eye and Adnexa,FALSE
+65-69,excess_ypll_number,-13.159567234366303,Eye and Adnexa,FALSE
+70-74,excess_rate,-0.28692606706510393,Eye and Adnexa,FALSE
+70-74,excess_ypll_number,-242.66782164443512,Eye and Adnexa,FALSE
+75-79,excess_rate,0.4004049984692988,Eye and Adnexa,FALSE
+75-79,excess_ypll_number,272.9138687534824,Eye and Adnexa,FALSE
+80-84,excess_rate,0.14028057752426215,Eye and Adnexa,FALSE
+80-84,excess_ypll_number,59.57890776774432,Eye and Adnexa,FALSE
+< 1 year,excess_rate,1.0911343333375676,Eye and Adnexa,FALSE
+< 1 year,excess_ypll_number,177.8340229342268,Eye and Adnexa,FALSE
+1-4,excess_rate,-0.2511925541962672,Ear and Mastoid,FALSE
+1-4,excess_ypll_number,-363.6985944808054,Ear and Mastoid,FALSE
+10-14,excess_rate,-1.921037023145331,Ear and Mastoid,FALSE
+10-14,excess_ypll_number,-1442.4629202460717,Ear and Mastoid,FALSE
+15-19,excess_rate,1.2200837751964415,Ear and Mastoid,FALSE
+15-19,excess_ypll_number,932.9731731837048,Ear and Mastoid,FALSE
+20-24,excess_rate,0.31660272865137373,Ear and Mastoid,FALSE
+20-24,excess_ypll_number,277.5829367099712,Ear and Mastoid,FALSE
+25-29,excess_rate,-0.14924956538177758,Ear and Mastoid,FALSE
+25-29,excess_ypll_number,-179.09591288601615,Ear and Mastoid,FALSE
+30-34,excess_rate,-0.8963486192643861,Ear and Mastoid,FALSE
+30-34,excess_ypll_number,-1410.0638951197602,Ear and Mastoid,FALSE
+35-39,excess_rate,-0.02526767464225043,Ear and Mastoid,FALSE
+35-39,excess_ypll_number,-45.09509537509536,Ear and Mastoid,FALSE
+40-44,excess_rate,-0.5305651660109754,Ear and Mastoid,FALSE
+40-44,excess_ypll_number,-1183.8219880230074,Ear and Mastoid,FALSE
+45-49,excess_rate,-0.5009647949566911,Ear and Mastoid,FALSE
+45-49,excess_ypll_number,-1064.403261318256,Ear and Mastoid,FALSE
+5-9,excess_rate,-3.270852276638659,Ear and Mastoid,FALSE
+5-9,excess_ypll_number,-686.4669488328302,Ear and Mastoid,FALSE
+50-54,excess_rate,-0.6070110198380527,Ear and Mastoid,FALSE
+50-54,excess_ypll_number,-1177.2143118389124,Ear and Mastoid,FALSE
+55-59,excess_rate,-0.5479897625985142,Ear and Mastoid,FALSE
+55-59,excess_ypll_number,-1142.1393332515618,Ear and Mastoid,FALSE
+60-64,excess_rate,0.06833648772131773,Ear and Mastoid,FALSE
+60-64,excess_ypll_number,119.40389670809904,Ear and Mastoid,FALSE
+65-69,excess_rate,-0.2601630929027581,Ear and Mastoid,FALSE
+65-69,excess_ypll_number,-370.5732031833594,Ear and Mastoid,FALSE
+70-74,excess_rate,0.02125060087843655,Ear and Mastoid,FALSE
+70-74,excess_ypll_number,22.088311252895007,Ear and Mastoid,FALSE
+75-79,excess_rate,0.08785334052951121,Ear and Mastoid,FALSE
+75-79,excess_ypll_number,61.829957267636416,Ear and Mastoid,FALSE
+80-84,excess_rate,0.2260372910163122,Ear and Mastoid,FALSE
+80-84,excess_ypll_number,121.30641128116888,Ear and Mastoid,FALSE
+< 1 year,excess_rate,-6.90582811926182,Ear and Mastoid,FALSE
+< 1 year,excess_ypll_number,-2768.638685817456,Ear and Mastoid,FALSE
+1-4,excess_rate,2.138978472725384,Circulatory,TRUE
+1-4,excess_ypll_number,3971.850238823852,Circulatory,TRUE
+10-14,excess_rate,7.738706866984813,Circulatory,TRUE
+10-14,excess_ypll_number,19007.5336775633,Circulatory,TRUE
+15-19,excess_rate,53.15944331091461,Circulatory,TRUE
+15-19,excess_ypll_number,133571.37452283545,Circulatory,TRUE
+20-24,excess_rate,104.07015909568273,Circulatory,TRUE
+20-24,excess_ypll_number,263332.67926655326,Circulatory,TRUE
+25-29,excess_rate,182.6166021178626,Circulatory,TRUE
+25-29,excess_ypll_number,451316.0919276638,Circulatory,TRUE
+30-34,excess_rate,335.24276157401965,Circulatory,TRUE
+30-34,excess_ypll_number,814738.1468112919,Circulatory,TRUE
+35-39,excess_rate,605.303640417412,Circulatory,TRUE
+35-39,excess_ypll_number,1463437.5753108887,Circulatory,TRUE
+40-44,excess_rate,1085.8117173275157,Circulatory,TRUE
+40-44,excess_ypll_number,2642660.653574239,Circulatory,TRUE
+45-49,excess_rate,1817.925857008892,Circulatory,TRUE
+45-49,excess_ypll_number,4417312.194671366,Circulatory,TRUE
+5-9,excess_rate,-3.776780531553136,Circulatory,TRUE
+5-9,excess_ypll_number,-8934.138184128404,Circulatory,TRUE
+50-54,excess_rate,2761.6582379538454,Circulatory,TRUE
+50-54,excess_ypll_number,6522121.875905913,Circulatory,TRUE
+55-59,excess_rate,3627.874126296659,Circulatory,TRUE
+55-59,excess_ypll_number,7839693.810540072,Circulatory,TRUE
+60-64,excess_rate,4244.667216743237,Circulatory,TRUE
+60-64,excess_ypll_number,7793516.238953732,Circulatory,TRUE
+65-69,excess_rate,4372.417433564491,Circulatory,TRUE
+65-69,excess_ypll_number,6428148.666815042,Circulatory,TRUE
+70-74,excess_rate,4280.855838436313,Circulatory,TRUE
+70-74,excess_ypll_number,4837364.957005115,Circulatory,TRUE
+75-79,excess_rate,3980.0914380431113,Circulatory,TRUE
+75-79,excess_ypll_number,3243779.457318519,Circulatory,TRUE
+80-84,excess_rate,3258.8032191529674,Circulatory,TRUE
+80-84,excess_ypll_number,1748887.1938322724,Circulatory,TRUE
+< 1 year,excess_rate,79.90876658516015,Circulatory,TRUE
+< 1 year,excess_ypll_number,36915.75894992246,Circulatory,TRUE
+1-4,excess_rate,15.008788175322394,Respiratory,TRUE
+1-4,excess_ypll_number,27869.68623515657,Respiratory,TRUE
+10-14,excess_rate,4.6932457499177005,Respiratory,TRUE
+10-14,excess_ypll_number,11527.381535695604,Respiratory,TRUE
+15-19,excess_rate,12.504298345026626,Respiratory,TRUE
+15-19,excess_ypll_number,31418.995635830837,Respiratory,TRUE
+20-24,excess_rate,23.186842445454445,Respiratory,TRUE
+20-24,excess_ypll_number,58670.54877161474,Respiratory,TRUE
+25-29,excess_rate,18.552943508259304,Respiratory,TRUE
+25-29,excess_ypll_number,45851.48261874971,Respiratory,TRUE
+30-34,excess_rate,14.034775885745091,Respiratory,TRUE
+30-34,excess_ypll_number,34108.61801273837,Respiratory,TRUE
+35-39,excess_rate,5.734051228609474,Respiratory,TRUE
+35-39,excess_ypll_number,13863.167948102904,Respiratory,TRUE
+40-44,excess_rate,-5.0828583824838915,Respiratory,TRUE
+40-44,excess_ypll_number,-12370.71735433168,Respiratory,TRUE
+45-49,excess_rate,-7.826866589564816,Respiratory,TRUE
+45-49,excess_ypll_number,-19018.21963687567,Respiratory,TRUE
+5-9,excess_rate,8.08749945444466,Respiratory,TRUE
+5-9,excess_ypll_number,19131.33079521518,Respiratory,TRUE
+50-54,excess_rate,14.213908523058194,Respiratory,TRUE
+50-54,excess_ypll_number,33568.54314784794,Respiratory,TRUE
+55-59,excess_rate,78.63816935659338,Respiratory,TRUE
+55-59,excess_ypll_number,169934.00214974122,Respiratory,TRUE
+60-64,excess_rate,208.4448353041796,Respiratory,TRUE
+60-64,excess_ypll_number,382719.8048556531,Respiratory,TRUE
+65-69,excess_rate,369.6073085451053,Respiratory,TRUE
+65-69,excess_ypll_number,543381.4963390712,Respiratory,TRUE
+70-74,excess_rate,582.531447774767,Respiratory,TRUE
+70-74,excess_ypll_number,658260.2447197628,Respiratory,TRUE
+75-79,excess_rate,899.2867012098386,Respiratory,TRUE
+75-79,excess_ypll_number,732919.776601528,Respiratory,TRUE
+80-84,excess_rate,1326.471944281283,Respiratory,TRUE
+80-84,excess_ypll_number,711871.7026842481,Respiratory,TRUE
+< 1 year,excess_rate,268.5357500521145,Respiratory,TRUE
+< 1 year,excess_ypll_number,124056.48894349804,Respiratory,TRUE
+1-4,excess_rate,7.809176723440139,Digestive,TRUE
+1-4,excess_ypll_number,14500.791302725524,Digestive,TRUE
+10-14,excess_rate,0.7732177268467062,Digestive,TRUE
+10-14,excess_ypll_number,1899.149591235777,Digestive,TRUE
+15-19,excess_rate,3.3200794653477494,Digestive,TRUE
+15-19,excess_ypll_number,8342.216360653412,Digestive,TRUE
+20-24,excess_rate,11.411575941513092,Digestive,TRUE
+20-24,excess_ypll_number,28875.144358812115,Digestive,TRUE
+25-29,excess_rate,34.764759643684016,Digestive,TRUE
+25-29,excess_ypll_number,85917.13610499451,Digestive,TRUE
+30-34,excess_rate,80.31653677511417,Digestive,TRUE
+30-34,excess_ypll_number,195192.71951829863,Digestive,TRUE
+35-39,excess_rate,143.51453889658296,Digestive,TRUE
+35-39,excess_ypll_number,346973.9066493051,Digestive,TRUE
+40-44,excess_rate,249.567942338203,Digestive,TRUE
+40-44,excess_ypll_number,607401.2382495961,Digestive,TRUE
+45-49,excess_rate,437.7898295562459,Digestive,TRUE
+45-49,excess_ypll_number,1063769.6500910954,Digestive,TRUE
+5-9,excess_rate,1.3325868509650274,Digestive,TRUE
+5-9,excess_ypll_number,3152.2920035753677,Digestive,TRUE
+50-54,excess_rate,631.2829282278739,Digestive,TRUE
+50-54,excess_ypll_number,1490881.145065775,Digestive,TRUE
+55-59,excess_rate,691.0442824817011,Digestive,TRUE
+55-59,excess_ypll_number,1493319.6124175258,Digestive,TRUE
+60-64,excess_rate,584.9072124511467,Digestive,TRUE
+60-64,excess_ypll_number,1073931.9776443427,Digestive,TRUE
+65-69,excess_rate,382.0240051563892,Digestive,TRUE
+65-69,excess_ypll_number,561636.0141157518,Digestive,TRUE
+70-74,excess_rate,170.87959506665516,Digestive,TRUE
+70-74,excess_ypll_number,193093.8569855228,Digestive,TRUE
+75-79,excess_rate,43.4617635221332,Digestive,TRUE
+75-79,excess_ypll_number,35421.39116312533,Digestive,TRUE
+80-84,excess_rate,-60.36375270321537,Digestive,TRUE
+80-84,excess_ypll_number,-32395.142319072376,Digestive,TRUE
+< 1 year,excess_rate,159.7961785240616,Digestive,TRUE
+< 1 year,excess_ypll_number,73821.65261212448,Digestive,TRUE
+1-4,excess_rate,-0.61078662584355925,"Skin and Subcutaneous
+Tissue",FALSE
+1-4,excess_ypll_number,-836.7293947229033,"Skin and Subcutaneous
+Tissue",FALSE
+10-14,excess_rate,-0.1563173452818427,"Skin and Subcutaneous
+Tissue",FALSE
+10-14,excess_ypll_number,-283.4097950864737,"Skin and Subcutaneous
+Tissue",FALSE
+15-19,excess_rate,-0.4195554224528233,"Skin and Subcutaneous
+Tissue",FALSE
+15-19,excess_ypll_number,-872.3847953095831,"Skin and Subcutaneous
+Tissue",FALSE
+20-24,excess_rate,-1.4122696787311573,"Skin and Subcutaneous
+Tissue",FALSE
+20-24,excess_ypll_number,-3573.519648463936,"Skin and Subcutaneous
+Tissue",FALSE
+25-29,excess_rate,-2.368403368731504,"Skin and Subcutaneous
+Tissue",FALSE
+25-29,excess_ypll_number,-5853.238643627473,"Skin and Subcutaneous
+Tissue",FALSE
+30-34,excess_rate,-3.557289992518899,"Skin and Subcutaneous
+Tissue",FALSE
+30-34,excess_ypll_number,-8645.257074507434,"Skin and Subcutaneous
+Tissue",FALSE
+35-39,excess_rate,-1.883650295512904,"Skin and Subcutaneous
+Tissue",FALSE
+35-39,excess_ypll_number,-4554.08564749109,"Skin and Subcutaneous
+Tissue",FALSE
+40-44,excess_rate,-0.9493410331690164,"Skin and Subcutaneous
+Tissue",FALSE
+40-44,excess_ypll_number,-2310.5167821858618,"Skin and Subcutaneous
+Tissue",FALSE
+45-49,excess_rate,-0.884299902548431,"Skin and Subcutaneous
+Tissue",FALSE
+45-49,excess_ypll_number,-2148.7283038599626,"Skin and Subcutaneous
+Tissue",FALSE
+5-9,excess_rate,-0.03403896752859792,"Skin and Subcutaneous
+Tissue",FALSE
+5-9,excess_ypll_number,-52.29475680522582,"Skin and Subcutaneous
+Tissue",FALSE
+50-54,excess_rate,0.5851482814601567,"Skin and Subcutaneous
+Tissue",FALSE
+50-54,excess_ypll_number,1381.926392886208,"Skin and Subcutaneous
+Tissue",FALSE
+55-59,excess_rate,-1.838160171385347,"Skin and Subcutaneous
+Tissue",FALSE
+55-59,excess_ypll_number,-3972.192092866619,"Skin and Subcutaneous
+Tissue",FALSE
+60-64,excess_rate,-0.4052423837250103,"Skin and Subcutaneous
+Tissue",FALSE
+60-64,excess_ypll_number,-744.0543479628531,"Skin and Subcutaneous
+Tissue",FALSE
+65-69,excess_rate,-4.807558701064778,"Skin and Subcutaneous
+Tissue",FALSE
+65-69,excess_ypll_number,-7067.875500096346,"Skin and Subcutaneous
+Tissue",FALSE
+70-74,excess_rate,-6.836638432783992,"Skin and Subcutaneous
+Tissue",FALSE
+70-74,excess_ypll_number,-7725.398010726695,"Skin and Subcutaneous
+Tissue",FALSE
+75-79,excess_rate,-11.32032645741343,"Skin and Subcutaneous
+Tissue",FALSE
+75-79,excess_ypll_number,-9226.080099996754,"Skin and Subcutaneous
+Tissue",FALSE
+80-84,excess_rate,-17.684389711255506,"Skin and Subcutaneous
+Tissue",FALSE
+80-84,excess_ypll_number,-9490.601492897998,"Skin and Subcutaneous
+Tissue",FALSE
+< 1 year,excess_rate,-2.8538975376355182,"Skin and Subcutaneous
+Tissue",FALSE
+< 1 year,excess_ypll_number,-1144.350440774744,"Skin and Subcutaneous
+Tissue",FALSE
+1-4,excess_rate,1.102258235432168,"MSK and Connective
+Tissue",FALSE
+1-4,excess_ypll_number,1956.3950557454957,"MSK and Connective
+Tissue",FALSE
+10-14,excess_rate,-3.785365483341156,"MSK and Connective
+Tissue",FALSE
+10-14,excess_ypll_number,-9297.478654147077,"MSK and Connective
+Tissue",FALSE
+15-19,excess_rate,-8.952714236983033,"MSK and Connective
+Tissue",FALSE
+15-19,excess_ypll_number,-22495.087831336572,"MSK and Connective
+Tissue",FALSE
+20-24,excess_rate,-21.760058470414968,"MSK and Connective
+Tissue",FALSE
+20-24,excess_ypll_number,-55060.30304751346,"MSK and Connective
+Tissue",FALSE
+25-29,excess_rate,-29.19028066866959,"MSK and Connective
+Tissue",FALSE
+25-29,excess_ypll_number,-72140.44747778699,"MSK and Connective
+Tissue",FALSE
+30-34,excess_rate,-30.764138584741655,"MSK and Connective
+Tissue",FALSE
+30-34,excess_ypll_number,-74765.87157645171,"MSK and Connective
+Tissue",FALSE
+35-39,excess_rate,-35.31215056245264,"MSK and Connective
+Tissue",FALSE
+35-39,excess_ypll_number,-85373.8926177491,"MSK and Connective
+Tissue",FALSE
+40-44,excess_rate,-38.63885138825325,"MSK and Connective
+Tissue",FALSE
+40-44,excess_ypll_number,-94039.66694553522,"MSK and Connective
+Tissue",FALSE
+45-49,excess_rate,-43.31357337404789,"MSK and Connective
+Tissue",FALSE
+45-49,excess_ypll_number,-105246.08312397136,"MSK and Connective
+Tissue",FALSE
+5-9,excess_rate,-0.4733367938903727,"MSK and Connective
+Tissue",FALSE
+5-9,excess_ypll_number,-1119.6987192977958,"MSK and Connective
+Tissue",FALSE
+50-54,excess_rate,-44.538362716224185,"MSK and Connective
+Tissue",FALSE
+50-54,excess_ypll_number,-105184.8580669209,"MSK and Connective
+Tissue",FALSE
+55-59,excess_rate,-49.91795318040331,"MSK and Connective
+Tissue",FALSE
+55-59,excess_ypll_number,-107870.74053826644,"MSK and Connective
+Tissue",FALSE
+60-64,excess_rate,-60.70308405480378,"MSK and Connective
+Tissue",FALSE
+60-64,excess_ypll_number,-111455.25601384364,"MSK and Connective
+Tissue",FALSE
+65-69,excess_rate,-71.71618040169145,"MSK and Connective
+Tissue",FALSE
+65-69,excess_ypll_number,-105434.18519452307,"MSK and Connective
+Tissue",FALSE
+70-74,excess_rate,-90.33278031766903,"MSK and Connective
+Tissue",FALSE
+70-74,excess_ypll_number,-102075.99659257586,"MSK and Connective
+Tissue",FALSE
+75-79,excess_rate,-107.44315807837216,"MSK and Connective
+Tissue",FALSE
+75-79,excess_ypll_number,-87566.30706338935,"MSK and Connective
+Tissue",FALSE
+80-84,excess_rate,-131.86528476759918,"MSK and Connective
+Tissue",FALSE
+80-84,excess_ypll_number,-70767.5463451403,"MSK and Connective
+Tissue",FALSE
+< 1 year,excess_rate,0.7031483898836655,"MSK and Connective
+Tissue",FALSE
+< 1 year,excess_ypll_number,324.83615473289024,"MSK and Connective
+Tissue",FALSE
+1-4,excess_rate,-1.1017710032670551,Genitourinary,FALSE
+1-4,excess_ypll_number,-2045.8688473286363,Genitourinary,FALSE
+10-14,excess_rate,-0.46526893486425536,Genitourinary,FALSE
+10-14,excess_ypll_number,-1142.776836048065,Genitourinary,FALSE
+15-19,excess_rate,-2.270154227014875,Genitourinary,FALSE
+15-19,excess_ypll_number,-5704.115799477225,Genitourinary,FALSE
+20-24,excess_rate,-4.171782485187535,Genitourinary,FALSE
+20-24,excess_ypll_number,-10556.019791722283,Genitourinary,FALSE
+25-29,excess_rate,-3.2391400420287653,Genitourinary,FALSE
+25-29,excess_ypll_number,-8005.164963212498,Genitourinary,FALSE
+30-34,excess_rate,-1.668412568880008,Genitourinary,FALSE
+30-34,excess_ypll_number,-4054.731437313479,Genitourinary,FALSE
+35-39,excess_rate,-0.7919049485219176,Genitourinary,FALSE
+35-39,excess_ypll_number,-1914.582005392269,Genitourinary,FALSE
+40-44,excess_rate,9.26862271112742,Genitourinary,FALSE
+40-44,excess_ypll_number,22558.077206798924,Genitourinary,FALSE
+45-49,excess_rate,23.01705292803274,Genitourinary,FALSE
+45-49,excess_ypll_number,55928.30323216971,Genitourinary,FALSE
+5-9,excess_rate,0.2888517682410434,Genitourinary,FALSE
+5-9,excess_ypll_number,683.2913881638946,Genitourinary,FALSE
+50-54,excess_rate,42.16562459517371,Genitourinary,FALSE
+50-54,excess_ypll_number,99581.23666568442,Genitourinary,FALSE
+55-59,excess_rate,44.452914467666574,Genitourinary,FALSE
+55-59,excess_ypll_number,96061.00605490948,Genitourinary,FALSE
+60-64,excess_rate,54.750620249446854,Genitourinary,FALSE
+60-64,excess_ypll_number,100526.10162787807,Genitourinary,FALSE
+65-69,excess_rate,41.67051081272996,Genitourinary,FALSE
+65-69,excess_ypll_number,61262.27483911184,Genitourinary,FALSE
+70-74,excess_rate,49.41595186169263,Genitourinary,FALSE
+70-74,excess_ypll_number,55840.000895736746,Genitourinary,FALSE
+75-79,excess_rate,98.43319380329854,Genitourinary,FALSE
+75-79,excess_ypll_number,80223.17500684863,Genitourinary,FALSE
+80-84,excess_rate,234.01785246577765,Genitourinary,FALSE
+80-84,excess_ypll_number,125589.30312211576,Genitourinary,FALSE
+< 1 year,excess_rate,47.51990623770732,Genitourinary,FALSE
+< 1 year,excess_ypll_number,21952.953085874546,Genitourinary,FALSE
+1-4,excess_rate,6.5613185953257585,Perinatal,FALSE
+1-4,excess_ypll_number,12183.654563217204,Perinatal,FALSE
+10-14,excess_rate,0.20385658172592255,Perinatal,FALSE
+10-14,excess_ypll_number,500.70520942966385,Perinatal,FALSE
+15-19,excess_rate,-0.8642309694332839,Perinatal,FALSE
+15-19,excess_ypll_number,-2171.514810966899,Perinatal,FALSE
+20-24,excess_rate,-0.30331009476563464,Perinatal,FALSE
+20-24,excess_ypll_number,-767.4770616021874,Perinatal,FALSE
+25-29,excess_rate,-0.34678699758595544,Perinatal,FALSE
+25-29,excess_ypll_number,-737.4965451020585,Perinatal,FALSE
+30-34,excess_rate,0.19674771434154348,Perinatal,FALSE
+30-34,excess_ypll_number,377.38826978074786,Perinatal,FALSE
+35-39,excess_rate,-0.28021228159401,Perinatal,FALSE
+35-39,excess_ypll_number,-501.20375983551855,Perinatal,FALSE
+40-44,excess_rate,0.8727386196940108,Perinatal,FALSE
+40-44,excess_ypll_number,1574.212967593777,Perinatal,FALSE
+45-49,excess_rate,0.4180095571796636,Perinatal,FALSE
+45-49,excess_ypll_number,837.4757271826578,Perinatal,FALSE
+5-9,excess_rate,1.329200507767597,Perinatal,FALSE
+5-9,excess_ypll_number,3144.281461842278,Perinatal,FALSE
+50-54,excess_rate,0.06053550651225259,Perinatal,FALSE
+50-54,excess_ypll_number,100.1886695641619,Perinatal,FALSE
+55-59,excess_rate,0.08217051521871288,Perinatal,FALSE
+55-59,excess_ypll_number,123.79118768818294,Perinatal,FALSE
+60-64,excess_rate,0.1788975833330937,Perinatal,FALSE
+60-64,excess_ypll_number,222.0842077416009,Perinatal,FALSE
+65-69,excess_rate,-0.2963213780291152,Perinatal,FALSE
+65-69,excess_ypll_number,-297.0137684874456,Perinatal,FALSE
+70-74,excess_rate,1.2331722706978463,Perinatal,FALSE
+70-74,excess_ypll_number,585.4103441685791,Perinatal,FALSE
+75-79,excess_rate,-0.336545975476924,Perinatal,FALSE
+75-79,excess_ypll_number,-75.81401478706461,Perinatal,FALSE
+80-84,excess_rate,-0.6823117374550334,Perinatal,FALSE
+80-84,excess_ypll_number,-76.30481842622652,Perinatal,FALSE
+< 1 year,excess_rate,3452.989700719805,Perinatal,FALSE
+< 1 year,excess_ypll_number,1595190.8769920825,Perinatal,FALSE
+1-4,excess_rate,-13.776719701271873,Congentinal,FALSE
+1-4,excess_ypll_number,-25581.86916485678,Congentinal,FALSE
+10-14,excess_rate,3.556654669174158,Congentinal,FALSE
+10-14,excess_ypll_number,8735.727372256757,Congentinal,FALSE
+15-19,excess_rate,16.618812529502634,Congentinal,FALSE
+15-19,excess_ypll_number,41757.352866169334,Congentinal,FALSE
+20-24,excess_rate,14.552565915648657,Congentinal,FALSE
+20-24,excess_ypll_number,36822.91067939626,Congentinal,FALSE
+25-29,excess_rate,13.40743359865298,Congentinal,FALSE
+25-29,excess_ypll_number,33134.94208274857,Congentinal,FALSE
+30-34,excess_rate,8.466281984935662,Congentinal,FALSE
+30-34,excess_ypll_number,20575.546098003702,Congentinal,FALSE
+35-39,excess_rate,4.733085587442751,Congentinal,FALSE
+35-39,excess_ypll_number,11443.141645488253,Congentinal,FALSE
+40-44,excess_rate,4.462062487604214,Congentinal,FALSE
+40-44,excess_ypll_number,10859.817389707248,Congentinal,FALSE
+45-49,excess_rate,3.5534959517467826,Congentinal,FALSE
+45-49,excess_ypll_number,8634.511105526135,Congentinal,FALSE
+5-9,excess_rate,-2.0226956462565653,Congentinal,FALSE
+5-9,excess_ypll_number,-4784.77429575704,Congentinal,FALSE
+50-54,excess_rate,3.140686210970607,Congentinal,FALSE
+50-54,excess_ypll_number,7417.260383784604,Congentinal,FALSE
+55-59,excess_rate,-0.1084793579348684,Congentinal,FALSE
+55-59,excess_ypll_number,-234.41964119121317,Congentinal,FALSE
+60-64,excess_rate,2.5162909014734325,Congentinal,FALSE
+60-64,excess_ypll_number,4620.092224240671,Congentinal,FALSE
+65-69,excess_rate,0.3906984048914523,Congentinal,FALSE
+65-69,excess_ypll_number,574.3887606088765,Congentinal,FALSE
+70-74,excess_rate,-1.0297154209957249,Congentinal,FALSE
+70-74,excess_ypll_number,-1163.5779108674587,Congentinal,FALSE
+75-79,excess_rate,-0.4181338239702619,Congentinal,FALSE
+75-79,excess_ypll_number,-340.7795850217052,Congentinal,FALSE
+80-84,excess_rate,-1.2407382734195451,Congentinal,FALSE
+80-84,excess_ypll_number,-665.8614010590715,Congentinal,FALSE
+< 1 year,excess_rate,-100.64065561777534,Congentinal,FALSE
+< 1 year,excess_ypll_number,-46493.34912945469,Congentinal,FALSE
+1-4,excess_rate,271.04291148232187,External causes,TRUE
+1-4,excess_ypll_number,503297.18902261514,External causes,TRUE
+10-14,excess_rate,274.2733727114062,External causes,TRUE
+10-14,excess_ypll_number,673660.4006687406,External causes,TRUE
+15-19,excess_rate,2435.7359014048925,External causes,TRUE
+15-19,excess_ypll_number,6120165.525858129,External causes,TRUE
+20-24,excess_rate,4490.922252351216,External causes,TRUE
+20-24,excess_ypll_number,11363551.275079096,External causes,TRUE
+25-29,excess_rate,4060.50840455486,External causes,TRUE
+25-29,excess_ypll_number,10035083.13663821,External causes,TRUE
+30-34,excess_rate,3366.315146624156,External causes,TRUE
+30-34,excess_ypll_number,8181132.237624115,External causes,TRUE
+35-39,excess_rate,2804.998931822104,External causes,TRUE
+35-39,excess_ypll_number,6781622.579875189,External causes,TRUE
+40-44,excess_rate,2363.257964836892,External causes,TRUE
+40-44,excess_ypll_number,5751723.561513756,External causes,TRUE
+45-49,excess_rate,2046.7665133279208,External causes,TRUE
+45-49,excess_ypll_number,4973363.816852403,External causes,TRUE
+5-9,excess_rate,105.80165430709587,External causes,TRUE
+5-9,excess_ypll_number,250278.40293919915,External causes,TRUE
+50-54,excess_rate,1753.0926445705236,External causes,TRUE
+50-54,excess_ypll_number,4140224.061944284,External causes,TRUE
+55-59,excess_rate,1483.101091311073,External causes,TRUE
+55-59,excess_ypll_number,3204923.335591461,External causes,TRUE
+60-64,excess_rate,1142.4656650767652,External causes,TRUE
+60-64,excess_ypll_number,2097649.652745779,External causes,TRUE
+65-69,excess_rate,862.0305840114323,External causes,TRUE
+65-69,excess_ypll_number,1267321.98687844,External causes,TRUE
+70-74,excess_rate,715.8638033898771,External causes,TRUE
+70-74,excess_ypll_number,808925.7398986596,External causes,TRUE
+75-79,excess_rate,688.3815633688224,External causes,TRUE
+75-79,excess_ypll_number,561031.827738729,External causes,TRUE
+80-84,excess_rate,682.546318758672,External causes,TRUE
+80-84,excess_ypll_number,366299.0477788558,External causes,TRUE
+< 1 year,excess_rate,604.9518343444574,External causes,TRUE
+< 1 year,excess_ypll_number,279471.91587763454,External causes,TRUE

@@ -1,0 +1,36 @@
+Data downloaded July 1, 2024 from CDC wonder
+
+
+all-deaths::
+Folder Name: all-deaths
+grouped by gender, year, and 5 year age group for all deaths
+	1999-2020: DONE
+	2021 and 2022: DONE
+
+all-deaths-race-hisp::
+Folder Name: all-deaths-race-hisp
+grouped by gender, year, 5 year age group, race, hispanic origin for all deaths
+	1999-2020: DONE
+	2021 and 2022: DONE
+
+icd::
+grouped by gender, year, 5 year age group and ICD chapter
+Folder Name: icd
+	1999-2020: DONE
+	2021 and 2022: DONE
+
+icd-race-hisp::
+grouped by gender, year, 5 year age group, race, hispanic origin, and ICD chapter
+Folder Name: icd-hisp
+
+	1999-2020:(split by hisp status) DONE
+		1999-2020-hisp.txt is hispanic only
+		1999-2020-nohisp.txt is not hispanic or latino
+	2021 and 2022: (split by hisp status) DONE
+		2021-2022-hisp.txt
+		2021-2022-nohisp.txt
+
+The ../data/ folder contains the life expectancy files from 1999-2021 used in Arun et al 2024, JACC
+2022 provisional life expectancy data was gathered from: https://www.cdc.gov/nchs/data/vsrr/vsrr031.pdf
+
+For life expectancy, we used all origins male and female life expectancy by five year age groups going from 0-85

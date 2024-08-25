@@ -1,0 +1,23 @@
+ICD Code,Name
+A00-B99,Infections
+C00-D48,Neoplasms
+D50-D89,Blood-related
+E00-E88,Endocrine and Metabolic
+F01-F99,Mental Health
+G00-G98,Neurological
+H00-H57,Eye and Adnexa
+H60-H93,Ear and Mastoid
+I00-I99,Circulatory
+J00-J98,Respiratory
+K00-K92,Digestive
+L00-L98,"Skin and Subcutaneous
+Tissue"
+M00-M99,"MSK and Connective
+Tissue"
+N00-N98,Genitourinary
+O00-O99,Pregnancy
+P00-P96,Perinatal
+Q00-Q99,Congentinal
+R00-R99,Not elsewhere classified
+U00-U99,Special Purposes
+V01-Y89,External causes

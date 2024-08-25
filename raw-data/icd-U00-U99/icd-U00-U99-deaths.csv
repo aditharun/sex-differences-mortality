@@ -1,0 +1,164 @@
+Five-Year Age Groups,Gender,Deaths,Year
+< 1 year,Female,12,2020
+< 1 year,Male,23,2020
+1-4 years,Female,2,2001
+1-4 years,Female,8,2020
+1-4 years,Male,1,2001
+1-4 years,Male,11,2020
+5-9 years,Female,9,2001
+5-9 years,Female,4,2020
+5-9 years,Male,4,2013
+5-9 years,Male,10,2020
+10-14 years,Female,1,2001
+10-14 years,Female,14,2020
+10-14 years,Male,2,2001
+10-14 years,Male,18,2020
+15-19 years,Female,59,2020
+15-19 years,Male,7,2001
+15-19 years,Male,9,2019
+15-19 years,Male,60,2020
+20-24 years,Female,39,2001
+20-24 years,Female,8,2019
+20-24 years,Female,134,2020
+20-24 years,Male,75,2001
+20-24 years,Male,7,2015
+20-24 years,Male,6,2017
+20-24 years,Male,4,2019
+20-24 years,Male,252,2020
+25-29 years,Female,93,2001
+25-29 years,Female,2,2013
+25-29 years,Female,280,2020
+25-29 years,Male,235,2001
+25-29 years,Male,8,2013
+25-29 years,Male,2,2015
+25-29 years,Male,8,2019
+25-29 years,Male,515,2020
+30-34 years,Female,110,2001
+30-34 years,Female,510,2020
+30-34 years,Male,384,2001
+30-34 years,Male,5,2017
+30-34 years,Male,2,2019
+30-34 years,Male,955,2020
+35-39 years,Female,103,2001
+35-39 years,Female,721,2020
+35-39 years,Male,451,2001
+35-39 years,Male,3,2015
+35-39 years,Male,1548,2020
+40-44 years,Female,106,2001
+40-44 years,Female,1293,2020
+40-44 years,Male,388,2001
+40-44 years,Male,4,2015
+40-44 years,Male,6,2019
+40-44 years,Male,2522,2020
+45-49 years,Female,92,2001
+45-49 years,Female,2166,2020
+45-49 years,Male,274,2001
+45-49 years,Male,4435,2020
+50-54 years,Female,64,2001
+50-54 years,Female,3414,2020
+50-54 years,Male,199,2001
+50-54 years,Male,6958,2020
+55-59 years,Female,45,2001
+55-59 years,Female,9,2019
+55-59 years,Female,5837,2020
+55-59 years,Male,124,2001
+55-59 years,Male,2,2018
+55-59 years,Male,10799,2020
+60-64 years ,Female,29,2001
+60-64 years ,Female,2,2019
+60-64 years ,Female,9264,2020
+60-64 years ,Male,51,2001
+60-64 years ,Male,5,2019
+60-64 years ,Male,16204,2020
+65-69 years,Female,6,2001
+65-69 years,Female,12568,2020
+65-69 years,Male,20,2001
+65-69 years,Male,20946,2020
+70-74 years,Female,5,2001
+70-74 years,Female,16704,2020
+70-74 years,Male,10,2001
+70-74 years,Male,26077,2020
+75-79 years,Female,8,2001
+75-79 years,Female,1,2019
+75-79 years,Female,19666,2020
+75-79 years,Male,1,2001
+75-79 years,Male,2,2002
+75-79 years,Male,7,2019
+75-79 years,Male,27544,2020
+80-84 years,Female,8,2001
+80-84 years,Female,3,2019
+80-84 years,Female,22652,2020
+80-84 years,Male,8,2019
+80-84 years,Male,27187,2020
+< 1 year,Female,47,2021
+1-4 years,Female,26,2021
+5-9 years,Female,24,2021
+10-14 years,Female,38,2021
+15-19 years,Female,137,2021
+20-24 years,Female,426,2021
+25-29 years,Female,759,2021
+30-34 years,Female,1501,2021
+35-39 years,Female,2340,2021
+40-44 years,Female,3725,2021
+45-49 years,Female,5450,2021
+50-54 years,Female,8011,2021
+55-59 years,Female,11853,2021
+60-64 years ,Female,17055,2021
+65-69 years,Female,19968,2021
+70-74 years,Female,22821,2021
+75-79 years,Female,21902,2021
+80-84 years,Female,20964,2021
+< 1 year,Female,60,2022
+1-4 years,Female,41,2022
+5-9 years,Female,29,2022
+10-14 years,Female,33,2022
+15-19 years,Female,69,2022
+20-24 years,Female,110,2022
+25-29 years,Female,222,2022
+30-34 years,Female,413,2022
+35-39 years,Female,607,2022
+40-44 years,Female,995,2022
+45-49 years,Female,1554,2022
+50-54 years,Female,2394,2022
+55-59 years,Female,3991,2022
+60-64 years ,Female,6069,2022
+65-69 years,Female,7751,2022
+70-74 years,Female,9821,2022
+75-79 years,Female,10970,2022
+80-84 years,Female,11186,2022
+< 1 year,Male,44,2021
+1-4 years,Male,28,2021
+5-9 years,Male,39,2021
+10-14 years,Male,42,2021
+15-19 years,Male,218,2021
+20-24 years,Male,624,2021
+25-29 years,Male,1341,2021
+30-34 years,Male,2533,2021
+35-39 years,Male,3960,2021
+40-44 years,Male,5988,2021
+45-49 years,Male,9253,2021
+50-54 years,Male,14171,2021
+55-59 years,Male,19357,2021
+60-64 years ,Male,25467,2021
+65-69 years,Male,28184,2021
+70-74 years,Male,31749,2021
+75-79 years,Male,29684,2021
+80-84 years,Male,26260,2021
+< 1 year,Male,82,2022
+1-4 years,Male,60,2022
+5-9 years,Male,33,2022
+10-14 years,Male,37,2022
+15-19 years,Male,93,2022
+20-24 years,Male,176,2022
+25-29 years,Male,387,2022
+30-34 years,Male,618,2022
+35-39 years,Male,869,2022
+40-44 years,Male,1373,2022
+45-49 years,Male,2147,2022
+50-54 years,Male,3586,2022
+55-59 years,Male,5725,2022
+60-64 years ,Male,8469,2022
+65-69 years,Male,11033,2022
+70-74 years,Male,13461,2022
+75-79 years,Male,14741,2022
+80-84 years,Male,14294,2022

@@ -1,0 +1,685 @@
+Age Group,Gender,value,shortname,keep
+1-4,Female Death Rate,1.080155746187941,Infections,TRUE
+1-4,Male Death Rate,1.191776898804468,Infections,TRUE
+10-14,Female Death Rate,0.3491125112384177,Infections,TRUE
+10-14,Male Death Rate,0.3827105914089468,Infections,TRUE
+15-19,Female Death Rate,0.5363692570791743,Infections,TRUE
+15-19,Male Death Rate,0.5822524911621096,Infections,TRUE
+20-24,Female Death Rate,1.0603953774807633,Infections,TRUE
+20-24,Male Death Rate,1.3761007368339695,Infections,TRUE
+25-29,Female Death Rate,2.098363497024778,Infections,TRUE
+25-29,Male Death Rate,3.1528868328728983,Infections,TRUE
+30-34,Female Death Rate,3.565705964277235,Infections,TRUE
+30-34,Male Death Rate,5.948253902534543,Infections,TRUE
+35-39,Female Death Rate,5.577432426358095,Infections,TRUE
+35-39,Male Death Rate,10.469490468693676,Infections,TRUE
+40-44,Female Death Rate,8.064505123135794,Infections,TRUE
+40-44,Male Death Rate,15.675415143345925,Infections,TRUE
+45-49,Female Death Rate,10.810777343842448,Infections,TRUE
+45-49,Male Death Rate,21.909458644632338,Infections,TRUE
+5-9,Female Death Rate,0.3818341670259583,Infections,TRUE
+5-9,Male Death Rate,0.4261177404406763,Infections,TRUE
+50-54,Female Death Rate,14.39917291975101,Infections,TRUE
+50-54,Male Death Rate,28.49425892383416,Infections,TRUE
+55-59,Female Death Rate,19.107468116846853,Infections,TRUE
+55-59,Male Death Rate,34.51612803658387,Infections,TRUE
+60-64,Female Death Rate,25.56835828066908,Infections,TRUE
+60-64,Male Death Rate,40.383484228437666,Infections,TRUE
+65-69,Female Death Rate,35.56439153998667,Infections,TRUE
+65-69,Male Death Rate,49.122579234561144,Infections,TRUE
+70-74,Female Death Rate,52.61710322683452,Infections,TRUE
+70-74,Male Death Rate,66.03808231773554,Infections,TRUE
+75-79,Female Death Rate,81.57284646646963,Infections,TRUE
+75-79,Male Death Rate,100.31641178852686,Infections,TRUE
+80-84,Female Death Rate,127.3284266456626,Infections,TRUE
+80-84,Male Death Rate,156.27798531032778,Infections,TRUE
+< 1 year,Female Death Rate,12.207873367403533,Infections,TRUE
+< 1 year,Male Death Rate,14.635028135684657,Infections,TRUE
+1-4,Female Death Rate,2.393341444914604,Neoplasms,TRUE
+1-4,Male Death Rate,2.702366235065893,Neoplasms,TRUE
+10-14,Female Death Rate,2.210193370905001,Neoplasms,TRUE
+10-14,Male Death Rate,2.549911099993866,Neoplasms,TRUE
+15-19,Female Death Rate,2.6567039764702853,Neoplasms,TRUE
+15-19,Male Death Rate,3.759767111420676,Neoplasms,TRUE
+20-24,Female Death Rate,3.591768573683866,Neoplasms,TRUE
+20-24,Male Death Rate,5.238430576316561,Neoplasms,TRUE
+25-29,Female Death Rate,6.221988358161358,Neoplasms,TRUE
+25-29,Male Death Rate,6.976652306518803,Neoplasms,TRUE
+30-34,Female Death Rate,12.414757250638267,Neoplasms,TRUE
+30-34,Male Death Rate,10.550168100510907,Neoplasms,TRUE
+35-39,Female Death Rate,24.027388776491605,Neoplasms,TRUE
+35-39,Male Death Rate,17.974583094896534,Neoplasms,TRUE
+40-44,Female Death Rate,44.721346591934854,Neoplasms,TRUE
+40-44,Male Death Rate,35.29156333798357,Neoplasms,TRUE
+45-49,Female Death Rate,79.98203965766706,Neoplasms,TRUE
+45-49,Male Death Rate,73.70742404333464,Neoplasms,TRUE
+5-9,Female Death Rate,2.268024242103262,Neoplasms,TRUE
+5-9,Male Death Rate,2.5567064426440576,Neoplasms,TRUE
+50-54,Female Death Rate,134.21931386244083,Neoplasms,TRUE
+50-54,Male Death Rate,145.50982408743596,Neoplasms,TRUE
+55-59,Female Death Rate,211.7234552884196,Neoplasms,TRUE
+55-59,Male Death Rate,262.19448190733266,Neoplasms,TRUE
+60-64,Female Death Rate,319.16047887963754,Neoplasms,TRUE
+60-64,Male Death Rate,428.32788541811186,Neoplasms,TRUE
+65-69,Female Death Rate,457.3255187222521,Neoplasms,TRUE
+65-69,Male Death Rate,642.869258165117,Neoplasms,TRUE
+70-74,Female Death Rate,642.31871423704,Neoplasms,TRUE
+70-74,Male Death Rate,928.3800568053348,Neoplasms,TRUE
+75-79,Female Death Rate,868.2469942949361,Neoplasms,TRUE
+75-79,Male Death Rate,1307.166109342361,Neoplasms,TRUE
+80-84,Female Death Rate,1108.0331816771322,Neoplasms,TRUE
+80-84,Male Death Rate,1769.0200606903204,Neoplasms,TRUE
+< 1 year,Female Death Rate,3.0044228409763516,Neoplasms,TRUE
+< 1 year,Male Death Rate,2.9438897004187443,Neoplasms,TRUE
+1-4,Female Death Rate,0.3748742714753354,Blood-related,FALSE
+1-4,Male Death Rate,0.44267537768516607,Blood-related,FALSE
+10-14,Female Death Rate,0.16922792058809746,Blood-related,FALSE
+10-14,Male Death Rate,0.19624096282884293,Blood-related,FALSE
+15-19,Female Death Rate,0.28033674452028723,Blood-related,FALSE
+15-19,Male Death Rate,0.32117413558976243,Blood-related,FALSE
+20-24,Female Death Rate,0.4097546540616532,Blood-related,FALSE
+20-24,Male Death Rate,0.5030948414674449,Blood-related,FALSE
+25-29,Female Death Rate,0.5449431726240122,Blood-related,FALSE
+25-29,Male Death Rate,0.6441729771475428,Blood-related,FALSE
+30-34,Female Death Rate,0.7738127820103805,Blood-related,FALSE
+30-34,Male Death Rate,0.8595671280018442,Blood-related,FALSE
+35-39,Female Death Rate,1.0435729437980137,Blood-related,FALSE
+35-39,Male Death Rate,1.127521769028878,Blood-related,FALSE
+40-44,Female Death Rate,1.4248443199174194,Blood-related,FALSE
+40-44,Male Death Rate,1.39821859801332,Blood-related,FALSE
+45-49,Female Death Rate,1.835275885703881,Blood-related,FALSE
+45-49,Male Death Rate,1.890229418539668,Blood-related,FALSE
+5-9,Female Death Rate,0.16174919575405178,Blood-related,FALSE
+5-9,Male Death Rate,0.19361302095419616,Blood-related,FALSE
+50-54,Female Death Rate,2.3483401510231743,Blood-related,FALSE
+50-54,Male Death Rate,2.4169350898630695,Blood-related,FALSE
+55-59,Female Death Rate,3.052853684740132,Blood-related,FALSE
+55-59,Male Death Rate,3.1939496394661595,Blood-related,FALSE
+60-64,Female Death Rate,4.106871142091616,Blood-related,FALSE
+60-64,Male Death Rate,4.3249928959772275,Blood-related,FALSE
+65-69,Female Death Rate,5.87321835211306,Blood-related,FALSE
+65-69,Male Death Rate,6.150355333004262,Blood-related,FALSE
+70-74,Female Death Rate,8.467609062916686,Blood-related,FALSE
+70-74,Male Death Rate,8.996464157727504,Blood-related,FALSE
+75-79,Female Death Rate,12.837799579910556,Blood-related,FALSE
+75-79,Male Death Rate,13.95826097148024,Blood-related,FALSE
+80-84,Female Death Rate,20.351385643918928,Blood-related,FALSE
+80-84,Male Death Rate,23.267753312547697,Blood-related,FALSE
+< 1 year,Female Death Rate,2.0240798943729152,Blood-related,FALSE
+< 1 year,Male Death Rate,2.5629157391880835,Blood-related,FALSE
+1-4,Female Death Rate,0.8414970508342741,Endocrine and Metabolic,TRUE
+1-4,Male Death Rate,0.9149701541205562,Endocrine and Metabolic,TRUE
+10-14,Female Death Rate,0.4923381568746916,Endocrine and Metabolic,TRUE
+10-14,Male Death Rate,0.5716230535512354,Endocrine and Metabolic,TRUE
+15-19,Female Death Rate,0.8364008102578375,Endocrine and Metabolic,TRUE
+15-19,Male Death Rate,0.9165601415901152,Endocrine and Metabolic,TRUE
+20-24,Female Death Rate,1.5574815790242438,Endocrine and Metabolic,TRUE
+20-24,Male Death Rate,1.880381190653655,Endocrine and Metabolic,TRUE
+25-29,Female Death Rate,2.3928487938162606,Endocrine and Metabolic,TRUE
+25-29,Male Death Rate,3.1184931751734375,Endocrine and Metabolic,TRUE
+30-34,Female Death Rate,3.4865328740338466,Endocrine and Metabolic,TRUE
+30-34,Male Death Rate,4.896940349617017,Endocrine and Metabolic,TRUE
+35-39,Female Death Rate,5.242662491911999,Endocrine and Metabolic,TRUE
+35-39,Male Death Rate,7.596088513651997,Endocrine and Metabolic,TRUE
+40-44,Female Death Rate,7.895944577877604,Endocrine and Metabolic,TRUE
+40-44,Male Death Rate,12.162817201995386,Endocrine and Metabolic,TRUE
+45-49,Female Death Rate,12.46892636187585,Endocrine and Metabolic,TRUE
+45-49,Male Death Rate,19.75007833566703,Endocrine and Metabolic,TRUE
+5-9,Female Death Rate,0.3942084224388366,Endocrine and Metabolic,TRUE
+5-9,Male Death Rate,0.4721959484843605,Endocrine and Metabolic,TRUE
+50-54,Female Death Rate,19.82983730173582,Endocrine and Metabolic,TRUE
+50-54,Male Death Rate,31.790656904665276,Endocrine and Metabolic,TRUE
+55-59,Female Death Rate,30.903141600001316,Endocrine and Metabolic,TRUE
+55-59,Male Death Rate,49.81904322457379,Endocrine and Metabolic,TRUE
+60-64,Female Death Rate,47.261126581780665,Endocrine and Metabolic,TRUE
+60-64,Male Death Rate,74.52375052883264,Endocrine and Metabolic,TRUE
+65-69,Female Death Rate,69.80307926674948,Endocrine and Metabolic,TRUE
+65-69,Male Death Rate,105.4777097029018,Endocrine and Metabolic,TRUE
+70-74,Female Death Rate,105.01477260047402,Endocrine and Metabolic,TRUE
+70-74,Male Death Rate,148.44873825165408,Endocrine and Metabolic,TRUE
+75-79,Female Death Rate,158.4024019373186,Endocrine and Metabolic,TRUE
+75-79,Male Death Rate,211.4598009691372,Endocrine and Metabolic,TRUE
+80-84,Female Death Rate,241.61412941430513,Endocrine and Metabolic,TRUE
+80-84,Male Death Rate,309.92490890228305,Endocrine and Metabolic,TRUE
+< 1 year,Female Death Rate,4.543991440723088,Endocrine and Metabolic,TRUE
+< 1 year,Male Death Rate,5.783877411410945,Endocrine and Metabolic,TRUE
+1-4,Female Death Rate,0.06656567503246402,Mental Health,FALSE
+1-4,Male Death Rate,0.05690470411469463,Mental Health,FALSE
+10-14,Female Death Rate,0.07843309165795953,Mental Health,FALSE
+10-14,Male Death Rate,0.06229225583571157,Mental Health,FALSE
+15-19,Female Death Rate,0.19150058631654895,Mental Health,FALSE
+15-19,Male Death Rate,0.3032647971739764,Mental Health,FALSE
+20-24,Female Death Rate,0.5728287285063921,Mental Health,FALSE
+20-24,Male Death Rate,1.0480813193807257,Mental Health,FALSE
+25-29,Female Death Rate,1.1388980025419522,Mental Health,FALSE
+25-29,Male Death Rate,2.1158168954174004,Mental Health,FALSE
+30-34,Female Death Rate,1.774727322876796,Mental Health,FALSE
+30-34,Male Death Rate,3.423866956487959,Mental Health,FALSE
+35-39,Female Death Rate,2.3367768016768187,Mental Health,FALSE
+35-39,Male Death Rate,5.175597907504898,Mental Health,FALSE
+40-44,Female Death Rate,3.192089940202679,Mental Health,FALSE
+40-44,Male Death Rate,7.637815315448018,Mental Health,FALSE
+45-49,Female Death Rate,4.294521418883307,Mental Health,FALSE
+45-49,Male Death Rate,10.719119406767732,Mental Health,FALSE
+5-9,Female Death Rate,0.05038089703814728,Mental Health,FALSE
+5-9,Male Death Rate,0.05284198170147274,Mental Health,FALSE
+50-54,Female Death Rate,5.062650080065805,Mental Health,FALSE
+50-54,Male Death Rate,13.921088813845152,Mental Health,FALSE
+55-59,Female Death Rate,6.308326528888906,Mental Health,FALSE
+55-59,Male Death Rate,17.14700230958839,Mental Health,FALSE
+60-64,Female Death Rate,8.746040144158702,Mental Health,FALSE
+60-64,Male Death Rate,21.18489468263773,Mental Health,FALSE
+65-69,Female Death Rate,15.628682374218547,Mental Health,FALSE
+65-69,Male Death Rate,27.419483944783764,Mental Health,FALSE
+70-74,Female Death Rate,38.792770475548245,Mental Health,FALSE
+70-74,Male Death Rate,49.078782778222475,Mental Health,FALSE
+75-79,Female Death Rate,109.48922863761656,Mental Health,FALSE
+75-79,Male Death Rate,113.25381541750782,Mental Health,FALSE
+80-84,Female Death Rate,299.8428247219402,Mental Health,FALSE
+80-84,Male Death Rate,286.4503228342542,Mental Health,FALSE
+< 1 year,Female Death Rate,0.21729900882270703,Mental Health,FALSE
+< 1 year,Male Death Rate,0.28718238027605886,Mental Health,FALSE
+1-4,Female Death Rate,1.464598880448683,Neurological,TRUE
+1-4,Male Death Rate,1.7028461608765149,Neurological,TRUE
+10-14,Female Death Rate,1.0869803463467216,Neurological,TRUE
+10-14,Male Death Rate,1.4310933285132428,Neurological,TRUE
+15-19,Female Death Rate,1.2952479481497874,Neurological,TRUE
+15-19,Male Death Rate,2.4090050095722826,Neurological,TRUE
+20-24,Female Death Rate,1.7234529085987114,Neurological,TRUE
+20-24,Male Death Rate,3.05769425642861,Neurological,TRUE
+25-29,Female Death Rate,1.956728114505885,Neurological,TRUE
+25-29,Male Death Rate,3.0808624673375573,Neurological,TRUE
+30-34,Female Death Rate,2.4347808752216764,Neurological,TRUE
+30-34,Male Death Rate,3.3769590327961403,Neurological,TRUE
+35-39,Female Death Rate,3.224123776066654,Neurological,TRUE
+35-39,Male Death Rate,4.231722384055191,Neurological,TRUE
+40-44,Female Death Rate,4.700605277766333,Neurological,TRUE
+40-44,Male Death Rate,5.949516690929436,Neurological,TRUE
+45-49,Female Death Rate,7.186922655729631,Neurological,TRUE
+45-49,Male Death Rate,8.86510601018136,Neurological,TRUE
+5-9,Female Death Rate,0.9263014051926026,Neurological,TRUE
+5-9,Male Death Rate,1.095308596708127,Neurological,TRUE
+50-54,Female Death Rate,10.808580047361232,Neurological,TRUE
+50-54,Male Death Rate,13.108104340730735,Neurological,TRUE
+55-59,Female Death Rate,16.841897083891055,Neurological,TRUE
+55-59,Male Death Rate,19.928172598373035,Neurological,TRUE
+60-64,Female Death Rate,26.861224996179725,Neurological,TRUE
+60-64,Male Death Rate,32.238380493474885,Neurological,TRUE
+65-69,Female Death Rate,45.977269303563254,Neurological,TRUE
+65-69,Male Death Rate,56.6469356483737,Neurological,TRUE
+70-74,Female Death Rate,94.18041269238248,Neurological,TRUE
+70-74,Male Death Rate,117.22217576202466,Neurological,TRUE
+75-79,Female Death Rate,215.60637755103735,Neurological,TRUE
+75-79,Male Death Rate,261.84868135906146,Neurological,TRUE
+80-84,Female Death Rate,478.96172359860566,Neurological,TRUE
+80-84,Male Death Rate,544.2477872808216,Neurological,TRUE
+< 1 year,Female Death Rate,7.394457421724766,Neurological,TRUE
+< 1 year,Male Death Rate,9.18883218990998,Neurological,TRUE
+1-4,Female Death Rate,0.08409754126909445,Eye and Adnexa,FALSE
+1-4,Male Death Rate,0.05818149176098129,Eye and Adnexa,FALSE
+10-14,Female Death Rate,0.05899633082153177,Eye and Adnexa,FALSE
+10-14,Male Death Rate,0.06477686037292223,Eye and Adnexa,FALSE
+15-19,Female Death Rate,0.02996395635689828,Eye and Adnexa,FALSE
+15-19,Male Death Rate,0.02355851037444812,Eye and Adnexa,FALSE
+20-24,Female Death Rate,0.04013776221152315,Eye and Adnexa,FALSE
+20-24,Male Death Rate,0.04660446773988902,Eye and Adnexa,FALSE
+25-29,Female Death Rate,0.04953367923370916,Eye and Adnexa,FALSE
+25-29,Male Death Rate,0.05275836563024616,Eye and Adnexa,FALSE
+30-34,Female Death Rate,0.03085653006408808,Eye and Adnexa,FALSE
+30-34,Male Death Rate,0.06005578694654064,Eye and Adnexa,FALSE
+35-39,Female Death Rate,0.03846008141614635,Eye and Adnexa,FALSE
+35-39,Male Death Rate,0.04210546442983616,Eye and Adnexa,FALSE
+40-44,Female Death Rate,0.04588252601276356,Eye and Adnexa,FALSE
+40-44,Male Death Rate,0.05237040833352851,Eye and Adnexa,FALSE
+45-49,Female Death Rate,0.06273014185064141,Eye and Adnexa,FALSE
+45-49,Male Death Rate,0.04211088665269737,Eye and Adnexa,FALSE
+5-9,Female Death Rate,0.02504718263027979,Eye and Adnexa,FALSE
+5-9,Male Death Rate,0.05127069689576438,Eye and Adnexa,FALSE
+50-54,Female Death Rate,0.06628260591556515,Eye and Adnexa,FALSE
+50-54,Male Death Rate,0.04746287751369432,Eye and Adnexa,FALSE
+55-59,Female Death Rate,0.04631593947232327,Eye and Adnexa,FALSE
+55-59,Male Death Rate,0.05924565428365018,Eye and Adnexa,FALSE
+60-64,Female Death Rate,0.0642685459071989,Eye and Adnexa,FALSE
+60-64,Male Death Rate,0.05114624125420585,Eye and Adnexa,FALSE
+65-69,Female Death Rate,0.06039587220503446,Eye and Adnexa,FALSE
+65-69,Male Death Rate,0.0721815150338374,Eye and Adnexa,FALSE
+70-74,Female Death Rate,0.09008452094963013,Eye and Adnexa,FALSE
+70-74,Male Death Rate,0.08631388683433593,Eye and Adnexa,FALSE
+75-79,Female Death Rate,0.09826763571244072,Eye and Adnexa,FALSE
+75-79,Male Death Rate,0.14818193384642037,Eye and Adnexa,FALSE
+80-84,Female Death Rate,0.14309403756814493,Eye and Adnexa,FALSE
+80-84,Male Death Rate,0.18600820390360584,Eye and Adnexa,FALSE
+< 1 year,Female Death Rate,0.27440911998710277,Eye and Adnexa,FALSE
+< 1 year,Male Death Rate,0.3067844710854716,Eye and Adnexa,FALSE
+1-4,Female Death Rate,0.06585160603985343,Ear and Mastoid,FALSE
+1-4,Male Death Rate,0.06699414880010993,Ear and Mastoid,FALSE
+10-14,Female Death Rate,0.05901714905562971,Ear and Mastoid,FALSE
+10-14,Male Death Rate,0.03462616743954714,Ear and Mastoid,FALSE
+15-19,Female Death Rate,0.03234641749726559,Ear and Mastoid,FALSE
+15-19,Male Death Rate,0.05492496465186203,Ear and Mastoid,FALSE
+20-24,Female Death Rate,0.03185605894041061,Ear and Mastoid,FALSE
+20-24,Male Death Rate,0.04106051462146676,Ear and Mastoid,FALSE
+25-29,Female Death Rate,0.04896786544507739,Ear and Mastoid,FALSE
+25-29,Male Death Rate,0.05000099543648415,Ear and Mastoid,FALSE
+30-34,Female Death Rate,0.05908675781453235,Ear and Mastoid,FALSE
+30-34,Male Death Rate,0.04576891927408333,Ear and Mastoid,FALSE
+35-39,Female Death Rate,0.04561568500677004,Ear and Mastoid,FALSE
+35-39,Male Death Rate,0.04986846184612452,Ear and Mastoid,FALSE
+40-44,Female Death Rate,0.05268626761938811,Ear and Mastoid,FALSE
+40-44,Male Death Rate,0.04436980556747838,Ear and Mastoid,FALSE
+45-49,Female Death Rate,0.05305219884912946,Ear and Mastoid,FALSE
+45-49,Male Death Rate,0.04377074706936845,Ear and Mastoid,FALSE
+5-9,Female Death Rate,0.05241233521265933,Ear and Mastoid,FALSE
+5-9,Male Death Rate,0.00952952587797547,Ear and Mastoid,FALSE
+50-54,Female Death Rate,0.05125385830457569,Ear and Mastoid,FALSE
+50-54,Male Death Rate,0.03660997150228255,Ear and Mastoid,FALSE
+55-59,Female Death Rate,0.05852387985331158,Ear and Mastoid,FALSE
+55-59,Male Death Rate,0.04701965440745927,Ear and Mastoid,FALSE
+60-64,Female Death Rate,0.05541050557979445,Ear and Mastoid,FALSE
+60-64,Male Death Rate,0.06467144980524851,Ear and Mastoid,FALSE
+65-69,Female Death Rate,0.06405508549108717,Ear and Mastoid,FALSE
+65-69,Male Death Rate,0.06248297251242053,Ear and Mastoid,FALSE
+70-74,Female Death Rate,0.09921413798986002,Ear and Mastoid,FALSE
+70-74,Male Death Rate,0.12025931178674502,Ear and Mastoid,FALSE
+75-79,Female Death Rate,0.12706937093426018,Ear and Mastoid,FALSE
+75-79,Male Death Rate,0.15629749534542506,Ear and Mastoid,FALSE
+80-84,Female Death Rate,0.16212709357104407,Ear and Mastoid,FALSE
+80-84,Male Death Rate,0.2180129044260495,Ear and Mastoid,FALSE
+< 1 year,Female Death Rate,0.28153317473631156,Ear and Mastoid,FALSE
+< 1 year,Male Death Rate,0.2095215836539242,Ear and Mastoid,FALSE
+1-4,Female Death Rate,1.2822276132444657,Circulatory,TRUE
+1-4,Male Death Rate,1.393188810305991,Circulatory,TRUE
+10-14,Female Death Rate,0.8158746599637747,Circulatory,TRUE
+10-14,Male Death Rate,0.9938261208821696,Circulatory,TRUE
+15-19,Female Death Rate,1.544575844995185,Circulatory,TRUE
+15-19,Male Death Rate,2.5363603049734276,Circulatory,TRUE
+20-24,Female Death Rate,2.921674851536576,Circulatory,TRUE
+20-24,Male Death Rate,5.008026575864463,Circulatory,TRUE
+25-29,Female Death Rate,5.277060219655544,Circulatory,TRUE
+25-29,Male Death Rate,9.25877265269477,Circulatory,TRUE
+30-34,Female Death Rate,9.517022147730252,Circulatory,TRUE
+30-34,Male Death Rate,17.48842607675174,Circulatory,TRUE
+35-39,Female Death Rate,16.72568453962844,Circulatory,TRUE
+35-39,Male Death Rate,32.57983664815358,Circulatory,TRUE
+40-44,Female Death Rate,30.12847124244995,Circulatory,TRUE
+40-44,Male Death Rate,61.94852078785373,Circulatory,TRUE
+45-49,Female Death Rate,50.28229212101973,Circulatory,TRUE
+45-49,Male Death Rate,110.2102933523294,Circulatory,TRUE
+5-9,Female Death Rate,0.6390419045364997,Circulatory,TRUE
+5-9,Male Death Rate,0.6298764218815551,Circulatory,TRUE
+50-54,Female Death Rate,79.92616390032973,Circulatory,TRUE
+50-54,Male Death Rate,183.83399683593217,Circulatory,TRUE
+55-59,Female Death Rate,124.32501562574453,Circulatory,TRUE
+55-59,Male Death Rate,284.27632614031535,Circulatory,TRUE
+60-64,Female Death Rate,198.70814570398173,Circulatory,TRUE
+60-64,Male Death Rate,426.39713364676834,Circulatory,TRUE
+65-69,Female Death Rate,315.9441013905527,Circulatory,TRUE
+65-69,Male Death Rate,612.5140372575765,Circulatory,TRUE
+70-74,Female Death Rate,546.7366118293506,Circulatory,TRUE
+70-74,Male Death Rate,934.8508561286974,Circulatory,TRUE
+75-79,Female Death Rate,1012.8908178525144,Circulatory,TRUE
+75-79,Male Death Rate,1542.0761813810248,Circulatory,TRUE
+80-84,Female Death Rate,1963.6441818958376,Circulatory,TRUE
+80-84,Male Death Rate,2685.374881946944,Circulatory,TRUE
+< 1 year,Female Death Rate,12.024483578316056,Circulatory,TRUE
+< 1 year,Male Death Rate,13.879574087562492,Circulatory,TRUE
+1-4,Female Death Rate,1.6255809249561093,Respiratory,TRUE
+1-4,Male Death Rate,1.9311847985146056,Respiratory,TRUE
+10-14,Female Death Rate,0.7293424990585258,Respiratory,TRUE
+10-14,Male Death Rate,0.8537703299835762,Respiratory,TRUE
+15-19,Female Death Rate,0.8213154249024857,Respiratory,TRUE
+15-19,Male Death Rate,1.0896837462760465,Respiratory,TRUE
+20-24,Female Death Rate,1.3066620635077166,Respiratory,TRUE
+20-24,Male Death Rate,1.82742383892024,Respiratory,TRUE
+25-29,Female Death Rate,1.835445030354809,Respiratory,TRUE
+25-29,Male Death Rate,2.3598095494500435,Respiratory,TRUE
+30-34,Female Death Rate,2.646464716503999,Respiratory,TRUE
+30-34,Male Death Rate,3.1963223792811517,Respiratory,TRUE
+35-39,Female Death Rate,4.008559992830468,Respiratory,TRUE
+35-39,Male Death Rate,4.542762872063157,Respiratory,TRUE
+40-44,Female Death Rate,6.95078701446602,Respiratory,TRUE
+40-44,Male Death Rate,7.567966017281029,Respiratory,TRUE
+45-49,Female Death Rate,12.492274903523322,Respiratory,TRUE
+45-49,Male Death Rate,13.679367655745704,Respiratory,TRUE
+5-9,Female Death Rate,0.6823517984815737,Respiratory,TRUE
+5-9,Male Death Rate,0.8425125562482815,Respiratory,TRUE
+50-54,Female Death Rate,23.49771317752859,Respiratory,TRUE
+50-54,Male Death Rate,26.817901877448755,Respiratory,TRUE
+55-59,Female Death Rate,43.73029101992936,Respiratory,TRUE
+55-59,Male Death Rate,52.48128493362173,Respiratory,TRUE
+60-64,Female Death Rate,78.88493742597844,Respiratory,TRUE
+60-64,Male Death Rate,99.92961170735546,Respiratory,TRUE
+65-69,Female Death Rate,137.14327396526716,Respiratory,TRUE
+65-69,Male Death Rate,179.187426099828,Respiratory,TRUE
+70-74,Female Death Rate,241.2018407066965,Respiratory,TRUE
+70-74,Male Death Rate,319.5027962401753,Respiratory,TRUE
+75-79,Female Death Rate,400.624123025758,Respiratory,TRUE
+75-79,Male Death Rate,548.4789201056922,Respiratory,TRUE
+80-84,Female Death Rate,636.1105483841849,Respiratory,TRUE
+80-84,Male Death Rate,905.0982746272408,Respiratory,TRUE
+< 1 year,Female Death Rate,11.714305786896492,Respiratory,TRUE
+< 1 year,Male Death Rate,16.05285736640104,Respiratory,TRUE
+1-4,Female Death Rate,0.48182038495929,Digestive,TRUE
+1-4,Male Death Rate,0.6171605630501221,Digestive,TRUE
+10-14,Female Death Rate,0.24467714462863463,Digestive,TRUE
+10-14,Male Death Rate,0.27441163681875547,Digestive,TRUE
+15-19,Female Death Rate,0.34570674772681154,Digestive,TRUE
+15-19,Male Death Rate,0.4278341954882213,Digestive,TRUE
+20-24,Female Death Rate,0.7056885708839584,Digestive,TRUE
+20-24,Male Death Rate,0.9698309041328436,Digestive,TRUE
+25-29,Female Death Rate,1.636490929983695,Digestive,TRUE
+25-29,Male Death Rate,2.47351093549179,Digestive,TRUE
+30-34,Female Death Rate,3.5152852068064453,Digestive,TRUE
+30-34,Male Death Rate,5.58862648756393,Digestive,TRUE
+35-39,Female Death Rate,6.487097396377671,Digestive,TRUE
+35-39,Male Death Rate,10.556763797110804,Digestive,TRUE
+40-44,Female Death Rate,11.073006228503049,Digestive,TRUE
+40-44,Male Death Rate,18.895056910619612,Digestive,TRUE
+45-49,Female Death Rate,17.418414630077038,Digestive,TRUE
+45-49,Male Death Rate,32.5038797030836,Digestive,TRUE
+5-9,Female Death Rate,0.201081650459272,Digestive,TRUE
+5-9,Male Death Rate,0.23335019119370365,Digestive,TRUE
+50-54,Female Death Rate,24.97999300470237,Digestive,TRUE
+50-54,Male Death Rate,49.60263859530645,Digestive,TRUE
+55-59,Female Death Rate,32.87638088676927,Digestive,TRUE
+55-59,Male Death Rate,64.95814239222598,Digestive,TRUE
+60-64,Female Death Rate,42.24719179139908,Digestive,TRUE
+60-64,Male Death Rate,76.51277886986132,Digestive,TRUE
+65-69,Female Death Rate,54.98891318251533,Digestive,TRUE
+65-69,Male Death Rate,86.00090428316678,Digestive,TRUE
+70-74,Female Death Rate,78.45208075912171,Digestive,TRUE
+70-74,Male Death Rate,103.46376259458522,Digestive,TRUE
+75-79,Female Death Rate,114.59760700495131,Digestive,TRUE
+75-79,Male Death Rate,138.2096056688208,Digestive,TRUE
+80-84,Female Death Rate,175.3398597003993,Digestive,TRUE
+80-84,Male Death Rate,198.32093541772053,Digestive,TRUE
+< 1 year,Female Death Rate,7.050318558251966,Digestive,TRUE
+< 1 year,Male Death Rate,9.647732643210547,Digestive,TRUE
+1-4,Female Death Rate,0.05992258168385902,"Skin and Subcutaneous
+Tissue",FALSE
+1-4,Male Death Rate,0.05547765365585511,"Skin and Subcutaneous
+Tissue",FALSE
+10-14,Female Death Rate,0.05249057693200652,"Skin and Subcutaneous
+Tissue",FALSE
+10-14,Male Death Rate,0.05405282422559332,"Skin and Subcutaneous
+Tissue",FALSE
+15-19,Female Death Rate,0.04180256769469914,"Skin and Subcutaneous
+Tissue",FALSE
+15-19,Male Death Rate,0.03847434523926436,"Skin and Subcutaneous
+Tissue",FALSE
+20-24,Female Death Rate,0.06580908080384129,"Skin and Subcutaneous
+Tissue",FALSE
+20-24,Male Death Rate,0.04702928997221205,"Skin and Subcutaneous
+Tissue",FALSE
+25-29,Female Death Rate,0.11172996450903908,"Skin and Subcutaneous
+Tissue",FALSE
+25-29,Male Death Rate,0.07849846580818047,"Skin and Subcutaneous
+Tissue",FALSE
+30-34,Female Death Rate,0.18209810755979336,"Skin and Subcutaneous
+Tissue",FALSE
+30-34,Male Death Rate,0.12385337746699623,"Skin and Subcutaneous
+Tissue",FALSE
+35-39,Female Death Rate,0.25955002324956533,"Skin and Subcutaneous
+Tissue",FALSE
+35-39,Male Death Rate,0.2398982487295485,"Skin and Subcutaneous
+Tissue",FALSE
+40-44,Female Death Rate,0.3525555500821893,"Skin and Subcutaneous
+Tissue",FALSE
+40-44,Male Death Rate,0.36485986336639087,"Skin and Subcutaneous
+Tissue",FALSE
+45-49,Female Death Rate,0.5446651180867188,"Skin and Subcutaneous
+Tissue",FALSE
+45-49,Male Death Rate,0.5811025340688027,"Skin and Subcutaneous
+Tissue",FALSE
+5-9,Female Death Rate,0.04821862189639333,"Skin and Subcutaneous
+Tissue",FALSE
+5-9,Male Death Rate,0.05142156879655889,"Skin and Subcutaneous
+Tissue",FALSE
+50-54,Female Death Rate,0.7777368913888345,"Skin and Subcutaneous
+Tissue",FALSE
+50-54,Male Death Rate,0.8980937851435826,"Skin and Subcutaneous
+Tissue",FALSE
+55-59,Female Death Rate,1.2673543966467065,"Skin and Subcutaneous
+Tissue",FALSE
+55-59,Male Death Rate,1.3734631309671923,"Skin and Subcutaneous
+Tissue",FALSE
+60-64,Female Death Rate,1.837205243383765,"Skin and Subcutaneous
+Tissue",FALSE
+60-64,Male Death Rate,2.1034029170462225,"Skin and Subcutaneous
+Tissue",FALSE
+65-69,Female Death Rate,2.769838778403937,"Skin and Subcutaneous
+Tissue",FALSE
+65-69,Male Death Rate,2.9643053020606698,"Skin and Subcutaneous
+Tissue",FALSE
+70-74,Female Death Rate,4.278213763652574,"Skin and Subcutaneous
+Tissue",FALSE
+70-74,Male Death Rate,4.466373657687459,"Skin and Subcutaneous
+Tissue",FALSE
+75-79,Female Death Rate,6.698642061788164,"Skin and Subcutaneous
+Tissue",FALSE
+75-79,Male Death Rate,6.8122595739854335,"Skin and Subcutaneous
+Tissue",FALSE
+80-84,Female Death Rate,11.39884183534429,"Skin and Subcutaneous
+Tissue",FALSE
+80-84,Male Death Rate,11.26400006201256,"Skin and Subcutaneous
+Tissue",FALSE
+< 1 year,Female Death Rate,0.2999206253544986,"Skin and Subcutaneous
+Tissue",FALSE
+< 1 year,Male Death Rate,0.2818108948640613,"Skin and Subcutaneous
+Tissue",FALSE
+1-4,Female Death Rate,0.05710545012944246,"MSK and Connective
+Tissue",FALSE
+1-4,Male Death Rate,0.07549733021157506,"MSK and Connective
+Tissue",FALSE
+10-14,Female Death Rate,0.11509203667200583,"MSK and Connective
+Tissue",FALSE
+10-14,Male Death Rate,0.06636364510601951,"MSK and Connective
+Tissue",FALSE
+15-19,Female Death Rate,0.26064193586191126,"MSK and Connective
+Tissue",FALSE
+15-19,Male Death Rate,0.13611097195997368,"MSK and Connective
+Tissue",FALSE
+20-24,Female Death Rate,0.5893844721048427,"MSK and Connective
+Tissue",FALSE
+20-24,Male Death Rate,0.2592539010232866,"MSK and Connective
+Tissue",FALSE
+25-29,Female Death Rate,0.795401048456542,"MSK and Connective
+Tissue",FALSE
+25-29,Male Death Rate,0.3119707068974595,"MSK and Connective
+Tissue",FALSE
+30-34,Female Death Rate,1.0196660622398497,"MSK and Connective
+Tissue",FALSE
+30-34,Male Death Rate,0.4690792369181917,"MSK and Connective
+Tissue",FALSE
+35-39,Female Death Rate,1.359744548552659,"MSK and Connective
+Tissue",FALSE
+35-39,Male Death Rate,0.6655108313893855,"MSK and Connective
+Tissue",FALSE
+40-44,Female Death Rate,1.8297957985256488,"MSK and Connective
+Tissue",FALSE
+40-44,Male Death Rate,0.999255842012458,"MSK and Connective
+Tissue",FALSE
+45-49,Female Death Rate,2.521642497926982,"MSK and Connective
+Tissue",FALSE
+45-49,Male Death Rate,1.511195825142099,"MSK and Connective
+Tissue",FALSE
+5-9,Female Death Rate,0.05259058550473269,"MSK and Connective
+Tissue",FALSE
+5-9,Male Death Rate,0.0494600948725785,"MSK and Connective
+Tissue",FALSE
+50-54,Female Death Rate,3.3587438621808032,"MSK and Connective
+Tissue",FALSE
+50-54,Male Death Rate,2.266194218806438,"MSK and Connective
+Tissue",FALSE
+55-59,Female Death Rate,4.697438568234028,"MSK and Connective
+Tissue",FALSE
+55-59,Male Death Rate,3.4132965141556637,"MSK and Connective
+Tissue",FALSE
+60-64,Female Death Rate,6.768360441968969,"MSK and Connective
+Tissue",FALSE
+60-64,Male Death Rate,5.103829294572798,"MSK and Connective
+Tissue",FALSE
+65-69,Female Death Rate,9.840057702074196,"MSK and Connective
+Tissue",FALSE
+65-69,Male Death Rate,7.571970312652449,"MSK and Connective
+Tissue",FALSE
+70-74,Female Death Rate,15.134964881253818,"MSK and Connective
+Tissue",FALSE
+70-74,Male Death Rate,11.467261711177748,"MSK and Connective
+Tissue",FALSE
+75-79,Female Death Rate,23.57800626051825,"MSK and Connective
+Tissue",FALSE
+75-79,Male Death Rate,17.917764149659455,"MSK and Connective
+Tissue",FALSE
+80-84,Female Death Rate,37.71103193996044,"MSK and Connective
+Tissue",FALSE
+80-84,Male Death Rate,28.10130437307054,"MSK and Connective
+Tissue",FALSE
+< 1 year,Female Death Rate,0.27395264789611046,"MSK and Connective
+Tissue",FALSE
+< 1 year,Male Death Rate,0.30088284438103347,"MSK and Connective
+Tissue",FALSE
+1-4,Female Death Rate,0.0990658735430316,Genitourinary,FALSE
+1-4,Male Death Rate,0.09101233434159742,Genitourinary,FALSE
+10-14,Female Death Rate,0.06308748676835875,Genitourinary,FALSE
+10-14,Male Death Rate,0.06066370012758838,Genitourinary,FALSE
+15-19,Female Death Rate,0.13870173757281773,Genitourinary,FALSE
+15-19,Male Death Rate,0.11262983937038758,Genitourinary,FALSE
+20-24,Female Death Rate,0.370434763015333,Genitourinary,FALSE
+20-24,Male Death Rate,0.3288098256880708,Genitourinary,FALSE
+25-29,Female Death Rate,0.6130610692020138,Genitourinary,FALSE
+25-29,Male Death Rate,0.6101839507151348,Genitourinary,FALSE
+30-34,Female Death Rate,1.0200827627148148,Genitourinary,FALSE
+30-34,Male Death Rate,1.0842313941047677,Genitourinary,FALSE
+35-39,Female Death Rate,1.6701300062921869,Genitourinary,FALSE
+35-39,Male Death Rate,1.8174360429614416,Genitourinary,FALSE
+40-44,Female Death Rate,2.593395377044676,Genitourinary,FALSE
+40-44,Male Death Rate,3.115689576472232,Genitourinary,FALSE
+45-49,Female Death Rate,4.253057629405901,Genitourinary,FALSE
+45-49,Male Death Rate,5.420880013282061,Genitourinary,FALSE
+5-9,Female Death Rate,0.04551958241165939,Genitourinary,FALSE
+5-9,Male Death Rate,0.05284198170147274,Genitourinary,FALSE
+50-54,Female Death Rate,6.878187302866238,Genitourinary,FALSE
+50-54,Male Death Rate,9.18249025206211,Genitourinary,FALSE
+55-59,Female Death Rate,11.55585642191054,Genitourinary,FALSE
+55-59,Male Death Rate,14.948905991497366,Genitourinary,FALSE
+60-64,Female Death Rate,19.311224529854687,Genitourinary,FALSE
+60-64,Male Death Rate,24.945095029423623,Genitourinary,FALSE
+65-69,Female Death Rate,32.91358815411013,Genitourinary,FALSE
+65-69,Male Death Rate,40.65546762371873,Genitourinary,FALSE
+70-74,Female Death Rate,56.34449323654858,Genitourinary,FALSE
+70-74,Male Death Rate,68.9159596973273,Genitourinary,FALSE
+75-79,Female Death Rate,96.56987707337504,Genitourinary,FALSE
+75-79,Male Death Rate,121.92619486075874,Genitourinary,FALSE
+80-84,Female Death Rate,167.18595283774224,Genitourinary,FALSE
+80-84,Male Death Rate,224.86819908744644,Genitourinary,FALSE
+< 1 year,Female Death Rate,2.8323534092399516,Genitourinary,FALSE
+< 1 year,Male Death Rate,3.643063504268196,Genitourinary,FALSE
+1-4,Female Death Rate,0.30958085482197373,Perinatal,FALSE
+1-4,Male Death Rate,0.4168257205940615,Perinatal,FALSE
+10-14,Female Death Rate,0.04347921385386887,Perinatal,FALSE
+10-14,Male Death Rate,0.04967094909775692,Perinatal,FALSE
+15-19,Female Death Rate,0.05489404115419674,Perinatal,FALSE
+15-19,Male Death Rate,0.04497233868852932,Perinatal,FALSE
+20-24,Female Death Rate,0.04815530413560398,Perinatal,FALSE
+20-24,Male Death Rate,0.04663408585479851,Perinatal,FALSE
+25-29,Female Death Rate,0.04663396343395951,Perinatal,FALSE
+25-29,Male Death Rate,0.04420085489155579,Perinatal,FALSE
+30-34,Female Death Rate,0.04314831208311164,Perinatal,FALSE
+30-34,Male Death Rate,0.05213403014774372,Perinatal,FALSE
+35-39,Female Death Rate,0.0482735145738545,Perinatal,FALSE
+35-39,Male Death Rate,0.04640352135414018,Perinatal,FALSE
+40-44,Female Death Rate,0.03687782410459309,Perinatal,FALSE
+40-44,Male Death Rate,0.06264683753441917,Perinatal,FALSE
+45-49,Female Death Rate,0.04083946822534112,Perinatal,FALSE
+45-49,Male Death Rate,0.0588973819135444,Perinatal,FALSE
+5-9,Female Death Rate,0.06054546398444015,Perinatal,FALSE
+5-9,Male Death Rate,0.08370169901513283,Perinatal,FALSE
+50-54,Female Death Rate,0.04808062886986079,Perinatal,FALSE
+50-54,Male Death Rate,0.05679621894277766,Perinatal,FALSE
+55-59,Female Death Rate,0.04342215920869371,Perinatal,FALSE
+55-59,Male Death Rate,0.05376644215968779,Perinatal,FALSE
+60-64,Female Death Rate,0.05161663072356924,Perinatal,FALSE
+60-64,Male Death Rate,0.06847085048481148,Perinatal,FALSE
+65-69,Female Death Rate,0.08043761586966747,Perinatal,FALSE
+65-69,Male Death Rate,0.07981350616522422,Perinatal,FALSE
+70-74,Female Death Rate,0.04397813934649364,Perinatal,FALSE
+70-74,Male Death Rate,0.13692309743723566,Perinatal,FALSE
+75-79,Female Death Rate,0.14537162698886558,Perinatal,FALSE
+75-79,Male Death Rate,0.1376120928180249,Perinatal,FALSE
+80-84,Female Death Rate,0.16968917777172943,Perinatal,FALSE
+80-84,Male Death Rate,0.11624498648786162,Perinatal,FALSE
+< 1 year,Female Death Rate,280.87617845203033,Perinatal,FALSE
+< 1 year,Male Death Rate,345.1017993811468,Perinatal,FALSE
+1-4,Female Death Rate,3.010251657432573,Congentinal,FALSE
+1-4,Male Death Rate,3.023871345136506,Congentinal,FALSE
+10-14,Female Death Rate,0.786035983789551,Congentinal,FALSE
+10-14,Male Death Rate,0.8977413341029019,Congentinal,FALSE
+15-19,Female Death Rate,0.810839462850158,Congentinal,FALSE
+15-19,Male Death Rate,1.146993629206562,Congentinal,FALSE
+20-24,Female Death Rate,0.8315122222321834,Congentinal,FALSE
+20-24,Male Death Rate,1.1579480640216917,Congentinal,FALSE
+25-29,Female Death Rate,0.8398438224434089,Congentinal,FALSE
+25-29,Male Death Rate,1.170598255582815,Congentinal,FALSE
+30-34,Female Death Rate,0.9125740401737928,Congentinal,FALSE
+30-34,Male Death Rate,1.174343984354841,Congentinal,FALSE
+35-39,Female Death Rate,0.9724859947551387,Congentinal,FALSE
+35-39,Male Death Rate,1.1763286541152345,Congentinal,FALSE
+40-44,Female Death Rate,1.0791936596409877,Congentinal,FALSE
+40-44,Male Death Rate,1.3098797797433042,Congentinal,FALSE
+45-49,Female Death Rate,1.3316719960316818,Congentinal,FALSE
+45-49,Male Death Rate,1.591447237424972,Congentinal,FALSE
+5-9,Female Death Rate,0.9183465267128952,Congentinal,FALSE
+5-9,Male Death Rate,0.9536920857481802,Congentinal,FALSE
+50-54,Female Death Rate,1.7386631241773525,Congentinal,FALSE
+50-54,Male Death Rate,2.064641818180155,Congentinal,FALSE
+55-59,Female Death Rate,2.332089633884771,Congentinal,FALSE
+55-59,Male Death Rate,2.654837595134361,Congentinal,FALSE
+60-64,Female Death Rate,2.3378963501278927,Congentinal,FALSE
+60-64,Male Death Rate,2.8136145700312754,Congentinal,FALSE
+65-69,Female Death Rate,1.9535097667059176,Congentinal,FALSE
+65-69,Male Death Rate,2.314035483618724,Congentinal,FALSE
+70-74,Female Death Rate,1.909223797526742,Congentinal,FALSE
+70-74,Male Death Rate,2.1345142188116015,Congentinal,FALSE
+75-79,Female Death Rate,2.3498350833962443,Congentinal,FALSE
+75-79,Male Death Rate,2.7079713400190655,Congentinal,FALSE
+80-84,Female Death Rate,3.3016205603312394,Congentinal,FALSE
+80-84,Male Death Rate,3.7118094497153047,Congentinal,FALSE
+< 1 year,Female Death Rate,124.57826857715357,Congentinal,FALSE
+< 1 year,Male Death Rate,131.49013224407105,Congentinal,FALSE
+1-4,Female Death Rate,9.710144230061578,External causes,TRUE
+1-4,Male Death Rate,13.949659742310043,External causes,TRUE
+10-14,Female Death Rate,5.665512071880109,External causes,TRUE
+10-14,Male Death Rate,10.235879764481204,External causes,TRUE
+15-19,Female Death Rate,21.612328752433974,External causes,TRUE
+15-19,Male Death Rate,63.07828184159085,External causes,TRUE
+20-24,Female Death Rate,29.885186663153203,External causes,TRUE
+20-24,Male Death Rate,111.66136653814088,External causes,TRUE
+25-29,Female Death Rate,32.69949782863613,External causes,TRUE
+25-29,Male Death Rate,114.54908854622089,External causes,TRUE
+30-34,Female Death Rate,35.58288695822854,External causes,TRUE
+30-34,Male Death Rate,111.1948216384425,External causes,TRUE
+35-39,Female Death Rate,38.53449923203777,External causes,TRUE
+35-39,Male Death Rate,108.73677656035944,External causes,TRUE
+40-44,Female Death Rate,41.16045430210703,External causes,TRUE
+40-44,Male Death Rate,107.535459797427,External causes,TRUE
+45-49,Female Death Rate,43.90411464063098,External causes,TRUE
+45-49,Male Death Rate,109.53288912352114,External causes,TRUE
+5-9,Female Death Rate,4.391534858491838,External causes,TRUE
+5-9,Male Death Rate,6.181243651511477,External causes,TRUE
+50-54,Female Death Rate,44.42913995634197,External causes,TRUE
+50-54,Male Death Rate,110.0950348362153,External causes,TRUE
+55-59,Female Death Rate,41.89796613776093,External causes,TRUE
+55-59,Male Death Rate,108.1565195067096,External causes,TRUE
+60-64,Female Death Rate,37.92308693265395,External causes,TRUE
+60-64,Male Death Rate,100.1540037326851,External causes,TRUE
+65-69,Female Death Rate,38.298580124689515,External causes,TRUE
+65-69,Male Death Rate,95.8889506751025,External causes,TRUE
+70-74,Female Death Rate,48.30604902256773,External causes,TRUE
+70-74,Male Death Rate,108.49473827200808,External causes,TRUE
+75-79,Female Death Rate,75.30661957741297,External causes,TRUE
+75-79,Male Death Rate,152.7040621435128,External causes,TRUE
+80-84,Female Death Rate,129.04537011141286,External causes,TRUE
+80-84,Male Death Rate,237.43282314338532,External causes,TRUE
+< 1 year,Female Death Rate,34.82821142632948,External causes,TRUE
+< 1 year,Male Death Rate,45.06748791376342,External causes,TRUE
